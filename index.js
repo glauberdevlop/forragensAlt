@@ -1,11 +1,13 @@
 require('./services/mongo.service.js')
 const Planta = require('./models/Plants')
 const express = require('express')
+const cors = require(cors)
 const app = express()
 
 app.use(
     express.urlencoded({extended: true}), 
-    express.json()
+    express.json(),
+    cors()
 )
 
 const port = process.env.PORT
