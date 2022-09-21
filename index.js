@@ -2,6 +2,9 @@ require('./services/mongo.service.js')
 const Planta = require('./models/Plants')
 const express = require('express')
 const app = express()
+const cors = require("cors")
+
+app.use(cors())
 
 app.use(
     express.urlencoded({extended: true}), 
@@ -9,7 +12,9 @@ app.use(
 )
 
 const port = process.env.PORT
-app.listen(port || 3000, ()=> console.log("funfando"))
+// app.listen(port || 3000, ()=> console.log("funfando"))
+
+app.listen(port, () => console.log("funfando"))
 
 app.get('/', async (req, res) =>{    
     try{
