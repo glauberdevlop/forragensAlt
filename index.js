@@ -17,7 +17,7 @@ const port = process.env.PORT
 app.listen(port, () => console.log("funfando"));
 
 // Esta rota filtra uma planta por caracteres de seu nome popular através do queryParams.
-app.get('/', async (req, res) =>{    
+app.get('/search', async (req, res) =>{    
     try{
         let name = req.query["nome"]
         const plantas = await Planta.find()
