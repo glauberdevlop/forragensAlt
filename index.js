@@ -14,7 +14,25 @@ app.use(
 const port = process.env.PORT
 // app.listen(port || 3000, ()=> console.log("funfando"))
 
-app.listen(port, () => console.log("funfando"))
+app.listen(port, () => console.log("funfando"));
+
+// Esta rota filtra uma planta por caracteres de seu nome popular através do queryParams.
+app.get('/', async (req, res) =>{    
+    try{
+        let name = req.query["nome"]
+        const plantas = await Planta.find()
+
+        if(name){
+            var regex = new RegExp( name, 'i' )
+            const planta = await Planta.find({ "nome_popular": { $regex: regex } })
+            res.status(200).json(planta)
+        }else{
+            res.status(200).json(plantas)
+        }
+    } catch(error){
+        res.status(500).json({error: error})
+    }
+});
 
 app.get('/', async (req, res) =>{    
     try{
@@ -25,7 +43,7 @@ app.get('/', async (req, res) =>{
     } catch(error){
         res.status(500).json({error: error})
     }
-})
+});
 
 app.get('/planta/:nome_popular', async (req, res) =>{
     const nome_planta = req.params.nome_popular
@@ -37,7 +55,7 @@ app.get('/planta/:nome_popular', async (req, res) =>{
     } catch(error){
         res.status(500).json({error: error})
     }
-})
+});
 
 app.get('/plantas/orderedByName', async (req, res) =>{
     
@@ -48,7 +66,7 @@ app.get('/plantas/orderedByName', async (req, res) =>{
     } catch (error) {
         res.status(500).json({ error: error })
     }
-})
+});
 
 app.post('/planta', async (req, res) => {
     const {nome_popular, imagens, nomes_populares,
@@ -72,4 +90,4 @@ app.post('/planta', async (req, res) => {
         res.status(500).json({error: error})
 
     }
-})
+});
