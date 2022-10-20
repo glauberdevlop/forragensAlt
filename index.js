@@ -16,12 +16,19 @@ const port = process.env.PORT
 
 app.listen(port, () => console.log("funfando"))
 
+// Esta rota filtra uma planta por caracteres de seu nome popular através do queryParams.
 app.get('/', async (req, res) =>{    
     try{
-        const planta = await Planta.find()
+        let name = req.query["nome"]
+        const plantas = await Planta.find()
 
-        res.status(200).json(planta)
-
+        if(name){
+            var regex = new RegExp( name, 'i' )
+            const planta = await Planta.find({ "nome_popular": { $regex: regex } })
+            res.status(200).json(planta)
+        }else{
+            res.status(200).json(plantas)
+        }
     } catch(error){
         res.status(500).json({error: error})
     }
