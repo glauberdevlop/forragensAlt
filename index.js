@@ -17,6 +17,7 @@ const port = process.env.PORT
 app.listen(port, () => console.log("funfando"));
 
 // Esta rota filtra uma planta por caracteres de seu nome popular através do queryParams.
+// search?nome=
 app.get('/search', async (req, res) => {
     try {
         let name = req.query["nome"]
@@ -67,6 +68,18 @@ app.get('/plantas/orderedByName', async (req, res) => {
         res.status(500).json({ error: error })
     }
 });
+
+// Esta rota recupera as plantas ordenando de forma decrescente.
+app.get('/plantas/orderedByProtein', async (req, res) =>{
+    
+    try {
+        const plantas = await Planta.find().sort({ composiçãoProteica: -1 })
+
+        res.status(200).json(plantas)
+    } catch (error) {
+        res.status(500).json({ error: error })
+    }
+})
 
 app.post('/planta', async (req, res) => {
     const { id,
