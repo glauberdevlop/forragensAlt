@@ -14,7 +14,7 @@ app.use(
 const port = process.env.PORT
 // app.listen(port || 3000, ()=> console.log("funfando"))
 
-app.listen(port, () => console.log("funfando"));
+app.listen(port, () => console.log(`Rodando na portal: ${port}`));
 
 // Esta rota filtra uma planta por caracteres de seu nome popular através do queryParams.
 // search?nome=
