@@ -14,7 +14,7 @@ app.use(
 const port = process.env.PORT
 // app.listen(port || 3000, ()=> console.log("funfando"))
 
-app.listen(port, () => console.log(`Rodando na portal: ${port}`));
+app.listen(port, () => console.log(`Rodando na porta: ${port}`));
 
 // Esta rota filtra uma planta por caracteres de seu nome popular através do queryParams.
 // search?nome=
@@ -73,7 +73,7 @@ app.get('/plantas/orderedByName', async (req, res) => {
 app.get('/plantas/orderedByProtein', async (req, res) =>{
     
     try {
-        const plantas = await Planta.find().sort({ composiçãoProteica: -1 })
+        const plantas = await Planta.find().sort({ composicaoProteica: -1 })
 
         res.status(200).json(plantas)
     } catch (error) {

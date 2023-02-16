@@ -16,7 +16,7 @@ const Planta = mongoose.Schema({
     partesUtilizadas: String,
     formasConservacao: String,
     formasOfertaPreparo: String,
-    composiçãoProteica: Number,
+    composicaoProteica: Number,
     composicaoDeCarboidratos: Number,
     formasDePropagracao: String,
     distribuicao: String,
