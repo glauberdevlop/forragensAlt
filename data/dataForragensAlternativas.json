@@ -1,15 +1,15 @@
 [
   {
     "_id": 1,
-    "nomePopular": "COROA DE FRADE",
+    "nomePopular": "Coroa de Frade",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668552001/COROA-DE-FRADE/COROA_DE_FRADE_csjyo6.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323996/COROA-DE-FRADE/COROA_DE_FRADE_n72zqt.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668552000/COROA-DE-FRADE/COROA_DE_FRADE3_rtvq0t.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323996/COROA-DE-FRADE/COROA_DE_FRADE3_igfnl2.jpg"
       }
     ],
     "nomesPopulares": "Coroa de frade; Cabeça de frade.",
@@ -51,15 +51,15 @@
   },
   {
     "_id": 2,
-    "nomePopular": "FACHEIRO",
+    "nomePopular": "Facheiro",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551978/FACHEIRO/FACHEIRO_2_yq7qqo.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323997/FACHEIRO/FACHEIRO_2_q6tzc4.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551976/FACHEIRO/FACHEIRO_j1ukis.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323997/FACHEIRO/FACHEIRO_e2goqw.jpg"
       }
     ],
     "nomesPopulares": "Facheiro; Facheiro amarelo; Facheiro da serra; Facheiro de pedra.",
@@ -102,15 +102,15 @@
   },
   {
     "_id": 3,
-    "nomePopular": "MANDACARU",
+    "nomePopular": "Mandacaru",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668552006/MANDACARU/MANDACARU_euawms.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323999/MANDACARU/MANDACARU_vayqt1.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668552006/MANDACARU/MANDACARU_2_wack0k.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323999/MANDACARU/MANDACARU_2_lfthci.jpg"
       }
     ],
     "nomesPopulares": "Mandacaru; Jamacaru; Cardeiro; Cumbeba; Princesa da noite.",
@@ -148,15 +148,15 @@
   },
   {
     "_id": 4,
-    "nomePopular": "XIQUE-XIQUE",
+    "nomePopular": "Xique-Xique",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668552001/XIQUE-XIQUE/XIQUE_XIQUE_d29oyr.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672324002/XIQUE-XIQUE/XIQUE_XIQUE_il8shu.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551973/XIQUE-XIQUE/XIQUE_XIQUE_2_xywgcr.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672324002/XIQUE-XIQUE/XIQUE_XIQUE_2_hdca1f.jpg"
       }
     ],
     "nomesPopulares": "Xique-xique; Alastrado; Xique-xique de pedra.",
@@ -194,15 +194,15 @@
   },
   {
     "_id": 5,
-    "nomePopular": "PALMATÓRIA",
+    "nomePopular": "Palmatória",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551997/PALMAT%C3%93RIA/PAMAT%C3%93RIA_mdkrrp.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672324001/PAMAT%C3%93RIA/PAMAT%C3%93RIA_mil4d5.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551996/PALMAT%C3%93RIA/PAMAT%C3%93RIA_2_gftrfu.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672324001/PAMAT%C3%93RIA/PAMAT%C3%93RIA_2_be0ghr.jpg"
       }
     ],
     "nomesPopulares": "Palmatória; Palmatória-de-espinho; Palminha; Quipá-de-espinho; Palmatória-de-quipá.",
@@ -244,15 +244,15 @@
   },
   {
     "_id": 6,
-    "nomePopular": "CRISTA DE GALO",
+    "nomePopular": "Crista de Galo",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668552002/CRISTA-DE-GALO/CRISTA_DE_GALO_zl34ex.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323996/CRISTA-DE-GALO/CRISTA_DE_GALO_f1rdgf.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668552001/CRISTA-DE-GALO/CRISTA_DE_GALO_1_iszeho.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323996/CRISTA-DE-GALO/CRISTA_DE_GALO_1_vz1r7q.jpg"
       }
     ],
     "nomesPopulares": "Crista de galo; Cravo de anum; Gervão-branco; Crista de urubú; Cravo de urubu.",
@@ -294,16 +294,16 @@
   },
   {
     "_id": 7,
-    "nomePopular": "BURRA LEITEIRA",
+    "nomePopular": "Burra Leiteira",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551973/BURRA-LEITEIRA/BURRA_LEITEIRA_g0u2zp.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323995/BURRA-LEITEIRA/BURRA_LEITEIRA_uip0ig.jpg"
       },
       {
         
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551972/BURRA-LEITEIRA/BURRA_LEITEIRA_1_dlmjky.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323995/BURRA-LEITEIRA/BURRA_LEITEIRA_1_hubhpz.jpg"
       }
     ],
     "nomesPopulares": "Erva de andorinha; Burra-leiteira; Erva de Santa Luzia.",
@@ -349,15 +349,15 @@
   },
   {
     "_id": 8,
-    "nomePopular": "FEIJÃO BRAVO",
+    "nomePopular": "Feijão Bravo",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551990/FEIJ%C3%83O-BRAVO/FEIJ%C3%83O_BRAVO_cruezb.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323998/FEIJAO-BRAVO/FEIJ%C3%83O_BRAVO_ke8xke.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551980/FEIJ%C3%83O-BRAVO/FEIJ%C3%83O_BRAVO_1_tkmb8h.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323997/FEIJAO-BRAVO/FEIJ%C3%83O_BRAVO_1_dplywc.jpg"
       }
     ],
     "nomesPopulares": "Feijão bravo; Feijão de boi.",
@@ -403,15 +403,15 @@
   },
   {
     "_id": 9,
-    "nomePopular": "PEGA PINTO",
+    "nomePopular": "Pega Pinto",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551997/PEGA-PINTO/PEGA_PINTO_iisazk.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672324001/PEGA-PINTO/PEGA_PINTO_1_aqiu2g.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551997/PEGA-PINTO/PEGA_PINTO_1_lxreqz.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672324001/PEGA-PINTO/PEGA_PINTO_oftddd.jpg"
       }
     ],
     "nomesPopulares": "Pega-pinto; Agarra-pinto; Tangaracá; Erva-tostão.",
@@ -453,15 +453,15 @@
   },
   {
     "_id": 10,
-    "nomePopular": "BAMBURRAL",
+    "nomePopular": "Bamburral",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551972/BAMBURRAL/BAMBURRAL_2_q4ntdz.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323994/BAMBURRAL/BAMBURRAL_fvaalb.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551972/BAMBURRAL/BAMBURRAL_k2cvtn.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323994/BAMBURRAL/BAMBURRAL_2_sxc5sg.jpg"
       }
     ],
     "nomesPopulares": "Bamburral; Erva-canudo; Alfazema; Salva limão; Betônica brava",
@@ -499,15 +499,15 @@
   },
   {
     "_id": 11,
-    "nomePopular": "MANIÇOBA",
+    "nomePopular": "Maniçoba",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551994/MANI%C3%87OBA/MANI%C3%87OBA_eqpxyw.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672324000/MANI%C3%87OBA/MANI%C3%87OBA_jwtpmp.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551993/MANI%C3%87OBA/MANI%C3%87OBA_1_vmogxq.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323999/MANI%C3%87OBA/MANI%C3%87OBA_1_gggi1l.jpg"
       }
     ],
     "nomesPopulares": "Maniçoba; Maniçoba brava; Mandioca brava; Maniçoba-de-veado.",
@@ -549,15 +549,15 @@
   },
   {
     "_id": 12,
-    "nomePopular": "MALVA BRANCA",
+    "nomePopular": "Malva Branca",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551994/MALVA-BRANCA/MALVA_BRANCA2_buymco.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323998/MALVA-BRANCA/MALVA_BRANCA2_gqbpmk.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551992/MALVA-BRANCA/MALVA_BRANCA_4_uvrqbf.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323998/MALVA-BRANCA/MALVA_BRANCA_4_wp6o88.jpg"
       }
     ],
     "nomesPopulares": "Malva branca; Malva branca sedosa; Guanxuma-branco.",
@@ -603,15 +603,15 @@
   },
   {
     "_id": 13,
-    "nomePopular": "MALVA ROXA",
+    "nomePopular": "Malva Roxa",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668552005/MALVA-ROXA/MALVA_ROXA_2_qx69hz.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323999/MALVA-ROXA/MALVA_ROXA_qzejem.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668552004/MALVA-ROXA/MALVA_ROXA_ywsg3m.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323999/MALVA-ROXA/MALVA_ROXA_2_eq0s0c.jpg"
       }
     ],
     "nomesPopulares": "Malva-roxa; Malva-rosa; Malva-cheirosa; Malva-das-boticas; Malva-silvestre; Malva-de-casa; Rosa cheirosa.",
@@ -649,15 +649,15 @@
   },
   {
     "_id": 14,
-    "nomePopular": "MOLEQUE DURO",
+    "nomePopular": "Moleque Duro",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551996/MOLEQUE-DURO/MOLEQUE_DURO_tpjyh9.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672324001/MOLEQUE-DURO/MOLEQUE_DURO_2_y1ptpy.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551995/MOLEQUE-DURO/MOLEQUE_DURO_2_gpl4vr.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672324001/MOLEQUE-DURO/MOLEQUE_DURO_anifba.jpg"
       }
     ],
     "nomesPopulares": "Moleque duro; Buquê-de-noiva; Maria-preta.",
@@ -695,15 +695,15 @@
   },
   {
     "_id": 15,
-    "nomePopular": "MARMELEIRO",
+    "nomePopular": "Marmeleiro",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551995/MARMELEIRO/MARMELEIRO_azbtmw.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672324000/MARMELEIRO/MARMELEIRO_tlmvxt.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551994/MARMELEIRO/MARMELEIRO_2_fub2gw.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672324000/MARMELEIRO/MARMELEIRO_2_lfwxof.jpg"
       }
     ],
     "nomesPopulares": "Marmeleiro; Marmeleiro do mato; Marmeleiro preto; Marmeleiro branco.",
@@ -741,15 +741,15 @@
   },
   {
     "_id": 16,
-    "nomePopular": "MALVA RASTEIRA",
+    "nomePopular": "Malva Rasteira",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668552003/MALVA-RASTEIRA/MALVA_RASTEIRA_rkjcpw.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323999/malva-rasteira/MALVA_RASTEIRA_2_owqfl0.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551991/MALVA-RASTEIRA/MALVA_RASTEIRA_2_ruhumz.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323998/malva-rasteira/MALVA_RASTEIRA_pxpzsk.jpg"
       }
     ],
     "nomesPopulares": "Malva rasteira; Guaxuma rasteira; Barba-de-boi.",
@@ -787,15 +787,15 @@
   },
   {
     "_id": 17,
-    "nomePopular": "ESTILOSANTE DO MATO",
+    "nomePopular": "Estilosante do Mato",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551976/ESTILOSANTE/ESTILOSANTE_2_cwcs2k.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323997/ESTILOSANTE/ESTILOSANTE_wuhpza.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551975/ESTILOSANTE/ESTILOSANTE_vfdvej.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323997/ESTILOSANTE/ESTILOSANTE_2_hrgwdj.jpg"
       }
     ],
     "nomesPopulares": "Estilosante; Estilosante silvestre; Estilosante do mato.",
@@ -829,15 +829,15 @@
   },
   {
     "_id": 18,
-    "nomePopular": "AMARRA CACHORRO",
+    "nomePopular": "Amarra Cachorro",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551972/AMARRA-CACHORRO/AMARRA_CACHORRO_z98khl.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323994/AMARRA-CACHORRO/AMARRA_CACHORRO_1_imuqtf.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551972/AMARRA-CACHORRO/AMARRA_CACHORRO_1_vcazfl.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323994/AMARRA-CACHORRO/AMARRA_CACHORRO_ivpzbe.jpg"
       }
     ],
     "nomesPopulares": "Amarra cachorro; Aguinaldo-peludo; Glória da manhã; Bejuco peludo.",
@@ -871,15 +871,15 @@
   },
   {
     "_id": 19,
-    "nomePopular": "MATO AZUL",
+    "nomePopular": "Mato Azul",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668552005/MATO-AZUL/MATO_AZUL_2_cem73x.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672324001/MATO-AZUL/MATO_AZUL_vv48dw.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551996/MATO-AZUL/MATO_AZUL_d0ei4b.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672324000/MATO-AZUL/MATO_AZUL_2_svhkii.jpg"
       }
     ],
     "nomesPopulares": "Mato azul; Borragem rasteira.",
@@ -917,15 +917,15 @@
   },
   {
     "_id": 20,
-    "nomePopular": "BELDROEGA",
+    "nomePopular": "Beldroega",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668552000/BELDROEGA/BELDROEGA_cw1cxu.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323995/BELDROEGA/BRELDOEGA_qzeotj.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551974/BELDROEGA/BRELDOEGA_yf9plv.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323994/BELDROEGA/BELDROEGA_mrd5rv.jpg"
       }
     ],
     "nomesPopulares": "Beldroega; Beldroega comum; Onze-horas.",
@@ -959,15 +959,15 @@
   },
   {
     "_id": 21,
-    "nomePopular": "FEIJÃO DE ROLA",
+    "nomePopular": "Feijão de Rola",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551993/FEIJ%C3%83O-DE-ROLA/FEIJ%C3%83O_DE_ROLA_1_vir5du.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323998/FEIJAO-DE-ROLA/FEIJ%C3%83O_DE_ROLA_kkccdw.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551992/FEIJ%C3%83O-DE-ROLA/FEIJ%C3%83O_DE_ROLA_ighkri.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323998/FEIJAO-DE-ROLA/FEIJ%C3%83O_DE_ROLA_1_vr5ou9.jpg"
       }
     ],
     "nomesPopulares": "Feijão de rola; Feijão de rolinha; Feijão de pombinha.",
@@ -1009,15 +1009,15 @@
   },
   {
     "_id": 22,
-    "nomePopular": "MELA BODE",
+    "nomePopular": "Mela Bode",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668552005/MELA-BODE/MELA_BODE_2_vnjpr0.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672324000/MELA-BODE/MELA_BODE_htgrap.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551995/MELA-BODE/MELA_BODE_ngeakb.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672324000/MELA-BODE/MELA_BODE_2_tb2cb3.jpg"
       }
     ],
     "nomesPopulares": "Mela bode; Malva-de-bode",
@@ -1055,15 +1055,15 @@
   },
   {
     "_id": 23,
-    "nomePopular": "FAVELA",
+    "nomePopular": "Favela",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551981/FAVELA/FAVELA_bvdqzn.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323998/FAVELA/FAVELA_r9hpmk.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551980/FAVELA/FAVELA_2_jj0lqb.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323997/FAVELA/FAVELA_2_jnwmi6.jpg"
       }
     ],
     "nomesPopulares": "Favela; Faveleira; Mandioca-brava",
@@ -1109,15 +1109,15 @@
   },
   {
     "_id": 24,
-    "nomePopular": "CATINGUEIRA",
+    "nomePopular": "Catingueira",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668552000/CATINGUEIRA/CATINGUEIRA_cofrbe.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323996/CATINGUEIRA/CATINGUEIRA_1_sroikt.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551974/CATINGUEIRA/CATINGUEIRA_1_obnm7v.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323996/CATINGUEIRA/CATINGUEIRA_x9tfjs.jpg"
       }
     ],
     "nomesPopulares": "Catingueira; Caatinga de porco; Pau de rato.",
@@ -1159,15 +1159,15 @@
   },
   {
     "_id": 25,
-    "nomePopular": "CARRAPICHO DE AGULHA",
+    "nomePopular": "Carrapicho de Agulha",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551975/CARRAPICHO-DE-AGULHA/CARRAPICHO_DE_AGULHA_v108fs.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323995/CARRAPICHO-DE-AGULHA/CARRAPICHO_DE_AGULHA_1_mybgpj.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551975/CARRAPICHO-DE-AGULHA/CARRAPICHO_DE_AGULHA_1_qw8lms.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323995/CARRAPICHO-DE-AGULHA/CARRAPICHO_DE_AGULHA_til5ir.jpg"
       }
     ],
     "nomesPopulares": "Carrapicho de agulha; Fura-capa; Carrapicho; Picão-do-campo; Carrapicho-de-duas-pontas; Macela-de-campo; Cadillo menudo.",
@@ -1201,15 +1201,15 @@
   },
   {
     "_id": 26,
-    "nomePopular": "JITIRANA PELUDA",
+    "nomePopular": "Jitirana Peluda",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551992/JITIRANA-PELUDA/JITIRANA_PELUDA_d3lzj7.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323998/JITIRANA-PELUDA/JITIRANA_PELUDA_x91xmk.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551991/JITIRANA-PELUDA/JITIRANA_PELUDA_1_lzxuw8.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323998/JITIRANA-PELUDA/JITIRANA_PELUDA_1_hbisac.jpg"
       }
     ],
     "nomesPopulares": "Jitirana peluda; Batatão-roxo; Jetirana; Jetirana-cabeluda; Jitirana; Jitirana-cabeluda; Jitirana-de-batata.",
@@ -1247,15 +1247,15 @@
   },
   {
     "_id": 27,
-    "nomePopular": "JITIRANA LISA",
+    "nomePopular": "Jitirana Lisa",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668552002/JITIRANA-LISA/JITIRANA_LISA_lp0tzc.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323998/JITIRANA-LISA/JITIRANA_LISA_e2aih3.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668552002/JITIRANA-LISA/JITIRANA_LISA_1_qoyf8f.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323998/JITIRANA-LISA/JITIRANA_LISA_1_iqwolb.jpg"
       }
     ],
     "nomesPopulares": "Jitirana lisa; Campainha; Corda-de-viola; Corriola; Jetirana.",
@@ -1293,15 +1293,15 @@
   },
   {
     "_id": 28,
-    "nomePopular": "CAPIM FOLHA LARGA",
+    "nomePopular": "Capim Folha Larga",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551974/CAPIM-FOLHA-LARGA/CAPIM_FOLHA_LARGA_z37ypz.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323995/CAPIM-FOLHA/CAPIM_FOLHA_LARGA_ld7e1t.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551973/CAPIM-FOLHA-LARGA/CAPIM_FOLHA_LARGA_2_k27y1h.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323995/CAPIM-FOLHA/CAPIM_FOLHA_LARGA_2_qr8p0q.jpg"
       }
     ],
     "nomesPopulares": "Capim folha larga; Capim arroz; Barbudinho; Capim-jaú; Capituva; Gervão.",
@@ -1339,15 +1339,15 @@
   },
   {
     "_id": 29,
-    "nomePopular": "MOFUMBO",
+    "nomePopular": "Mofumbo",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551994/MOFUMBO/MOFUMBO_agfw7t.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672324000/MOFUMBO/MOFUMBO_zdl6un.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551993/MOFUMBO/MOFUMBO_2_lxgnuc.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672324000/MOFUMBO/MOFUMBO_2_h8n0xt.jpg"
       }
     ],
     "nomesPopulares": "Mofumbo; Carne-de-vaca; Cipoaba; Pente-de-macaco.",
@@ -1385,15 +1385,15 @@
   },
   {
     "_id": 30,
-    "nomePopular": "ERVA PALHA",
+    "nomePopular": "Erva Palha",
     "images": [
       {
         "_id": 1,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551975/ERVA-PALHA/ERVA_PALHA_etft7p.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323997/ERVA-PALHA/ERVA_PALHA_j7ilnx.jpg"
       },
       {
         "_id": 2,
-        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1668551975/ERVA-PALHA/ERVA_PALHA_1_shqhk6.jpg"
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1672323996/ERVA-PALHA/ERVA_PALHA_1_tdaoqs.jpg"
       }
     ],
     "nomesPopulares": "Erva palha; Canela de urubu; Picão grande; Erva de urubu.",

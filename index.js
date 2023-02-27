@@ -46,11 +46,12 @@ app.get('/', async (req, res) => {
     }
 });
 
+// Mostra a planta pela nome popular
 app.get('/planta/:nomePopular', async (req, res) => {
     const nomePopular = req.params.nomePopular
 
     try {
-        const plantaTal = await Planta.findOne({  nomePopular: nomePopular.toLocaleUpperCase()})
+        const plantaTal = await Planta.findOne({  nomePopular: nomePopular})
 
         res.status(200).json(plantaTal)
     } catch (error) {
@@ -58,6 +59,7 @@ app.get('/planta/:nomePopular', async (req, res) => {
     }
 });
 
+//ordenar em ordem alfabetica 
 app.get('/plantas/orderedByName', async (req, res) => {
 
     try {
