@@ -35,6 +35,7 @@ app.get('/search', async (req, res) => {
     }
 });
 
+// Esta rota chama todas as plantas
 app.get('/', async (req, res) => {
     try {
         const planta = await Planta.find()

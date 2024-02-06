@@ -1424,5 +1424,1169 @@
         "pesquisa": "Phillips, O.; Gentry, A. H. The useful plants of Tambopata, Peru: I. Statistical hypothesis test with a new quantitative technique. Economic Botany 47:15-32, 1993."
       }
     ]
+  },
+  {
+    "_id": 31,
+    "nomePopular": "Umbuzeiro",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707157736/UMBUZEIRO/yqmoydqs2kfhhjkxvgir.jpg"
+      }
+    ],
+    "nomesPopulares": "Umbuzeiro; imbuzeiro; umbu.",
+    "nomeCientifico": "Spondia Tuberosa Arruda ",
+    "nomeFamilias": "Anacardiaceae",
+    "consumidorPor": "Caprinos, ovinos e bovinos",
+    "partesUtilizadas": "Folhas e talos flexíveis",
+    "formasConservacao": "Podem ser conservada na forma de feno e silagem.",
+    "formasOfertaPreparo": "A oferta aos animais é feita na forma natural ou a pasto,mas também na forma  de mistura múltipla, juntamente com outros volumosos (capim, folhagem, feno de espécies forrageiras), ração concentrada proteica e energética.",
+    "composicaoProteica": 14.55,
+    "composicaoCarboidratosTotais": 65.11,
+    "composicaoBromatologica": "Matéria Seca: 15,18;Matéria Orgânica: 86,10; Matéria Mineral: 14,77; Proteína Bruta: 14,55;Extrato Etéreo: 5,57;Fibra de Detergente Neutro: 35,26; Fibra em Detergente Ácido: 19,95; Carboidratos não Fibrosos: 29,85; Carboidratos totais: 65,11.",
+    "consideracoesComposicao": "O Umbuzeiro é uma arvore nativa do Brasil, que ocorre nos biomas Caatinga e Cerrado, preferencialmente nas áreas de clima semiárido.  Seu nome é derivado da palavra tupi-guarani 'y-mb-ú', que significa 'árvore que dá de beber'. O umbuzeiro floresce entre os meses de setembro e dezembro e frutifica entre dezembro e maio. Seus frutos são utilizados para fabricação de doces, geleias, sucos, picolés, sorvetes, compotas e umbuzada (polpa do umbu cozida com leite e açúcar), são comercializados no mercado interno e externo, tornando-se uma das espécies frutíferas mais difundidas e estudadas no semiárido brasileiro.",
+    "formasPropragacao": "Propagação sexuada (sementes) ou por via assexuada (estruturas vegetativas)",
+    "formasPropragacaoDetalhes": "O Umbuzeiro pode ser propagado por sementes (via sexuada) ou por estruturas vegetativas (via assexuada). A propagação sexuadaé utilizada principalmente para obtenção de porta-enxertos e também para estudos básicos de genética dessa planta. Quando se busca uniformidade, boa formação do pomar e alta produtividade, torna-se imprescindível utilizar a propagação assexuada. Dentre as técnicas mais recomendadas para o umbuzeiro, destaca-se a enxertia por garfagem de fenda cheia ou por garfagem à inglesa simple.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Na literatura o foco maior é dado ao fruto do Umbuzeiro, o qual rende até 300 kg de frutos por planta e por safra. Não havendo assim relatos de produção forrageira.",
+    "neutralizacaoDeFatoresAnti": "Os resultados indicaram a presença de taninos, flavonas, flavonóis, xantonas, despidos e depsidonas. A presença desses compostos desperta o interesse por investigações sobre possíveis atividades biológicas da farinha, como atividades antimicrobiana, antiinflamatória e antioxidante (Ksouri et al., 2013). Antraquinonas, esteróides, triterpenóides, saponinas e alcalóides não foram detectados. Segundo Clerici et al. (2011), a ausência de alcaloides garante o uso seguro deste produto como ingrediente alimentar..",
+    "desempenho": "Não foram encontrados dados sobre desempenho de animais alimentados com folhas de umbu. Segundo Nascimento et al 2009, trabalharam com frutos de umbu na alimentação de caprinos observou consumo médio de 1,480 kg/animal/dia de matéria natural e aproximadamente 133,6 g/MS/ animal/dia de matéria seca MS.  O ganho médio foi superior a 108,75 g/animal/dia. Porém nas condições desse trabalho, o consumo dos frutos do umbuzeiro não influenciou o desempenho produtivo dos animais alimentados com os frutos de umbu.",
+    "curiosidades": "As raízes do umbuzeiro, em formato de batatas, podem ser utilizadas na culinária popular e apresentam um sabor adocicado. As populações tradicionais utilizam o suco da raiz nos casos de escorbuto, doença que tem como sintomas hemorragias nas gengivas em decorrência de carência grave de vitamina C.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Pereira, Sidclay Cordeiro. Plantas úteis do Nordeste do Brasil/ Sidclay Cordeiro Pereira, Cintia Ferreira Lima Gamarra- Rojas, Guillermo Gamarra-Rojas, Marcelino Lima, Fernando Antônio Távora Gallindo. - Recife: Cntro Nordestino de Informações sobre Plantas - CNIP; Associação Plantas do Nordeste - APNE, 2003. 140p.: il ISBN: 85-86692-01-9"
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Feitoza, G. S.  Caracterização da farinha de subprodutos do processamento do umbu (Spondia Tuberosa ARR. CAM).  Dissertação (mestrado) – Universidade Federal de Pernambuco.  Centro de Biociências. Programa de Pós-Graduação em Bioquímica e Fisiologia. Recife, 2017."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Ksouri WM, Medini F, Mkadmini K, Legault J, Magné C, Abdelly C, Ksouri R. 2013. LC– ESI-TOF–MS identification of bioactive secondary metabolites involved in the antioxidant, anti-inflammatory and anticancer activities of the edible halophyte Zygophyllum album Desf. Food Chem. 139(1):1073-1080. Clerici MTPS, Kallmann C, Gaspi FOG, Morgano MA, Martinez-Bustos F, Chang YK. 2011. Physical, chemical and technological characteristics of Solanum lycocarpum A. St.- HILL (Solanaceae) fruit flour and starch. Food Res Int. 44(7):2143-2150."
+      },
+      {
+        "_id": 4,
+        "pesquisa": "Nascimento, T. V. C.; Nogueira, D. M.; Voltolini, T. V.; Cavalcanti, N. B. Desempenho Produtivo e Controle de Nematódeos Gastrintestinais em Caprinos Suplementados com Frutos do Umbuzeiro na Região Semiárida. VI Congresso Brasileiro de Agroecologia – II Congresso Latino Americano de Agroecologia. Curitiba, Paraná 2009."
+      }
+    ]
+  },
+  {
+    "_id": 32,
+    "nomePopular": "Maracujá de Estalo",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707157380/MARACUJA-DE-ESTALO/y54buceubttwendpbeaf.jpg"
+      }
+    ],
+    "nomesPopulares": "Maracujá de estalo, maracujá de cheiro, maracujá-fedido, maracujá do mato, maracujazinho",
+    "nomeCientifico": "Passiflora Foetida L.",
+    "nomeFamilias": "Passifloraceae",
+    "consumidorPor": "Caprinos, ovinos e bovinos",
+    "partesUtilizadas": "Folhas e ramos na forma de feno ou silagem. OBS: Não ofertar na a planta fresca.",
+    "formasConservacao": "Podem ser conservada na forma de feno e silagem.",
+    "formasOfertaPreparo": "A oferta aos animais é feita apenas como feno (Planta desidratada) ou Silagem (planta triturada, compactada e fechada em recipiente livre de oxigênio por no minimo 40 dias). Tanto o feno quanto a silagem podem ser ofertads juntamente a outros ingredientes como capim, folhagem, feno de espécies forrageiras, ração concentrada proteica e energética.",
+    "composicaoProteica": 12.45,
+    "composicaoCarboidratosTotais": 75.85,
+    "composicaoBromatologica": "Matéria Seca: 33,85;Matéria Orgânica: 92,86; Matéria Mineral: 7,14; Proteína Bruta: 12,48;Extrato Etéreo: 4,53;Fibra de Detergente Neutro: 60,27; Fibra em Detergente Ácido: 35,51; Carboidratos não Fibrosos: 15,58; Carboidratos totais: 75,85.",
+    "consideracoesComposicao": "O Maracujá de estalo é uma herbacea de origem nas americas tropicais e o resto do mundo. No Brasil ocorre nos biomas Caatinga e Cerrado, preferencialmente nas áreas de clima semiárido.  É uma planta com potencial forrageiro desde que se atente para os cuidados que se deve ter ao ofertar aos animais, pois a planta na ofertada na forma in natura é toxica, já nas formas de feno ou silagem misturados a outros ingredientes torna-se uma boa opção como volumoso estrategico para oferta no verão.",
+    "formasPropragacao": "Propagação sexuada (sementes) ",
+    "formasPropragacaoDetalhes": "O Maracujá de estalo ou Passiflora Foetida é multiplicada de forma natural, via sexuada,atraves das sementes da propria planta.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Não foram encontrados relatos sobre a produtividade desta especie, provavelmente por se tratar de uma especie pouco conhecida ainda, sendo mais divulgados seus potenciasi farmacológicos.",
+    "neutralizacaoDeFatoresAnti": "A Passiflora foetida é uma planta cianogênica que pode causar intoxicação em ruminantes, principalmente durante o período seco; porém o tratamento com tiosulfato de sódio é eficiente para tratar a intoxicação. O autor também observou que as folhas colhidas dois dias antes de ser ofertadas aos animais não causou intoxicação nos animais estudados, neste caso, a planta ofertqada na forma de feno ou silagem misturada a outros ingredientes não oferece risco de intoxicação aos animasi que consumir.",
+    "desempenho": "Por se tratar de uma especie pouco conhecida não foram encontrados estudos sobre o desempenho de animais alimentados com a Passiflora Foetida, apenas estudos sobre a sua toxides que se dá quando o animal ingere a planta na fprma fresca.",
+    "curiosidades": "É utilizada como farmaco, atraves de infusão de suas folhas no tratamento de histeria e insônia. Sob a forma de emplastros, loções e pomadas, é utilizada contra erisipela e outras doenças de pele. Na Índia, as folhas são aplicadas na cabeça para o alívio de tonturas e dores de cabeça. Em muitos lugares é  considerada daninha, invade terrenos baldios, bordas da mata, vegetação costeira, estradas e áreas antrópicas. É uma planta melífera fornecendo néctar e pólen durante todo o ano para espécies nativas de abelhas.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Carvalho, F. K. L.; Medeiros, R. M. T.; Araujo, J. A. S.; e Riet-Correa, F.Intoxicação experimental por Passiflora foetida (Passifloraceae) em caprinos. Pesq. Vet. Bras. 31(6):477-481, junho 2011."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Calderon C. 2007. Jardineiro.net. Maracujá - Passiflora sp. Disponível em Acesso em 20 de abril de 2007."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Silva D.M., Riet-Correa F., Medeiros R.M.T. & Oliveira O.F. 2006. Plantas tóxicas para ruminantes e eqüinos no Seridó Ocidental e Oriental do Rio Grande do Norte. Pesq. Vet. Bras. 26(4):223- 236."
+      },
+      {
+        "_id": 4,
+        "pesquisa": "Spooner A., Carpenter J., Smith G. & Spence K. 2Florabase. Disponível em Acesso em 18 de abril de 2008"
+      }
+    ]
+  },
+  {
+    "_id": 33,
+    "nomePopular": "Velame",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707157753/VELAME/zijkjmqut4da5g6gthnp.jpg"
+      }
+    ],
+    "nomesPopulares": "Velame, Velande, Velame do campo ou Velame da caatinga",
+    "nomeCientifico": "Croton heliotropiifolius",
+    "nomeFamilias": "Euphorbiaceae",
+    "consumidorPor": "Caprinos e ovinos",
+    "partesUtilizadas": "Folhas e talos flexiveis na forma de feno.",
+    "formasConservacao": "Podem ser conservada na forma de feno e silagem.",
+    "formasOfertaPreparo": "O Velame pode ser ofertado aos animais é na forma de mistura múltipla, juntamente com outros volumosos (capim, folhagem, feno de espécies forrageiras), ração concentrada proteica e energética.",
+    "composicaoProteica": 12.98,
+    "composicaoCarboidratosTotais": 70.29,
+    "composicaoBromatologica": "Matéria Seca: 38,14;Matéria Orgânica: 90,18; Matéria Mineral: 8,47; Proteína Bruta: 12,98;Extrato Etéreo: 8,26;Fibra de Detergente Neutro: 50,22; Fibra em Detergente Ácido: 30,47; Carboidratos não Fibrosos: 20,07; Carboidratos totais: 70,29.",
+    "consideracoesComposicao": "O Velame é uma espécie pouco procurada pelos animais que utilizam como forragem, isso acontece por causa do cheiro forte a espécie apresenta, afastando os animais, com a chegada do periodo seco os animais tentam aproveitar o que ainda existe de forragem, com isso começam a utilizar o velame na sua alimentação, principalmente as folhas secas, quando boa parte das substancias antinutricionais estão reduzidas.",
+    "formasPropragacao": "Sementes",
+    "formasPropragacaoDetalhes": "As plantas do Velame apresentam frutos e sementes, estas semente ao cair no solo vão originas novas plantas.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Não foram encontrados relatos sobre a produtividade desta especie, provavelmente por se tratar de uma especie pouco conhecida ainda, sendo mais divulgados seus potenciasi farmacológicos.",
+    "neutralizacaoDeFatoresAnti": "Não foram encontrados dados sobre fatores antinutricionais na literatura consultada em relação a introdução desta planta na alimentação animal na forma in natura.",
+    "desempenho": "Por se tratar de uma espécie pouco estudada na  alimentanão animal, não foram encontrados estudos sobre o desempenho de animais alimentados com o Velame, apenas estudos focados nos efeitos e potencialidades no uso como farmaco, para humanos e animais.",
+    "curiosidades": "O velame é popularmente conhecido por suas propriedades medicinais, sendo utilizado na dor de estômago, mal estar gástrico, vômitos, diarréia com sangue e para baixar a febre. Além das propriedades farmacológicas, seu óleo essencial apresenta atividade larvicida contra Aedes aegypti, antibacteriana e cicatrizante.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Dias, J.E.; Laureano, L.C. (Coord.) Farmacopeia Popular do Cerrado. 1 ed. Goiás: Articulação Pacari, 2009."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Cordeiro, I.; Secco R.; Carneiro-Torres, D.S.; Lima, L.R. de; Caruzo, M.B.R.; Berry, P.; Rina, R.; Silva, O.L.M.; Silva, M.J.da; Sodré, R.C. 2015 Croton in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Silva, J. A. G.; Silva, G. C.; Silva, T. M. S.; Costa, M. A. S.; Junior, D. F. P.; Leite, S. P. Atividade tóxica in vitro de Croton heliotropiifolius Kunth (Euphorbiaceae). Rev. Verde de Agroecologia e Desenvolvimento Sustentável. 13 (1): 112–115, 2018."
+      }
+    ]
+  },
+  {
+    "_id": 34,
+    "nomePopular": "Caroá",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707155922/CARO%C3%81/um6xcfdjjyxc57mlfxmu.jpg"
+      }
+    ],
+    "nomesPopulares": "Caroá, carauá, caroá dos sertanejos, caroá verdadeiro, caruá, crauá, croá, croatá, graná, gravatá",
+    "nomeCientifico": "Neoglaziovia variegata (Arruda) Mez",
+    "nomeFamilias": "Bromeliaceae ",
+    "consumidorPor": "Caprinos, ovinos, bovinos, passaros e pequenos primatas",
+    "partesUtilizadas": "As inflorescências, frutos e sementes são consumidos por bovinos, ovinos, caprinos, pássaros e pequenos primatas.",
+    "formasConservacao": "Por se tratar de uma espécie rica em nutrientes e também água, ao ser coletada o armazenamento deve ocorrer em local sombreado, livre se umidade e deve ser bem ventilado.",
+    "formasOfertaPreparo": "A planta antes da oferta de ter os espinhos extraidos para que a planta possa ser trirurada em particulas menores, faciliando assim a digestao.",
+    "composicaoProteica": 6.97,
+    "composicaoCarboidratosTotais": 79.64,
+    "composicaoBromatologica": "Matéria Seca: 28,21;Matéria Orgânica: 93,34; Matéria Mineral: 6,04; Proteína Bruta: 6,97;Extrato Etéreo: 7,54;Fibra de Detergente Neutro: 60,16; Fibra em Detergente Ácido: 18,45; Carboidratos não Fibrosos: 19,30; Carboidratos totais: 79,46.",
+    "consideracoesComposicao": "O Caroá é uma espécie procurada pelos animais apenas nos períodos mais críticos quando as forragens tradicionais já estao bem escassas. A pouca procura se dá pelo fato da planta possir espinhos nas folhas.",
+    "formasPropragacao": "Sementes",
+    "formasPropragacaoDetalhes": "Os frutos do Caroá são os responsáveis por liberar no meio ambiente as sementes que ao chegar ao solo fica esperando as condições favoráves a germinação.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Não foram encontrados relatos sobre a produtividade desta especie, provavelmente por se tratar de uma especie pouco conhecida ainda na alimentação animal, sendo mais divulgados sua potencialidade como fibra para confecção artesanal.",
+    "neutralizacaoDeFatoresAnti": "Como fatores antiutricionais do caroá temos os espinhos presentes na planta e o teros de fibra (Lignina), que é reponsável por limitar a digestão.",
+    "desempenho": "Por se tratar de uma espécie pouco estudada na  alimentanão animal, não foram encontrados estudos sobre o desempenho de animais alimentados com o Velame, apenas estudos focados nos efeitos e potencialidades no uso como artesanal.",
+    "curiosidades": "O Caroá é muito utilizado na confecção artesanal de cordas, redes, barbantes, cestarias, esteiras, sacolas, chapéus e tecidos.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Souza, J. S. R. C aracterização bromatológica de espécies com potencial forrageiro disponíveis para ruminantes no semiárido. Dissertação, UFRPE, Guaranhuns PE, p 8, ano 2015."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Kiill, L. H. P.; Santos, A. P. B. Caroá (Neoglaziovia variegata) EMBRAPA, Semiárido, Petrolina , PE, 2013."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Ibrahin, A. H. H.; Herfindal, L.; Rathe, B.; Anersen, H. L.; Almeida, J. R. G. S.; Fossen, T. A novel poly-oxygenated flavone glucoside from aerial parts of the brazilian plant Neglaziovia variegata (Bromeliceae)Heliyon, 5: 1 - 13, 2019."
+      }
+    ]
+  },
+  {
+    "_id": 35,
+    "nomePopular": "Macambira Raiz",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707157303/MACAMBIRA/l7hp1zalslhyulokzdfz.jpg"
+      }
+    ],
+    "nomesPopulares": "Macambira ou mocambira",
+    "nomeCientifico": "Bromelia laciniosa Mart. ex Schult. & Schult.f.",
+    "nomeFamilias": "Bromeliaceae",
+    "consumidorPor": "Caprinos, ovinos, bovinos, passaros e pequenos primatas",
+    "partesUtilizadas": "As inflorescências, frutos e sementes são consumidos por bovinos, ovinos, caprinos, pássaros e pequenos primatas",
+    "formasConservacao": "Por se tratar de uma espécie rica em nutrientes e também água, ao ser coletada o armazenamento deve ocorrer em local sombreado, livre se umidade e deve ser bem ventilado.",
+    "formasOfertaPreparo": "Esta espécie diferente do Caroá nao se utilizam as folhas e sim a bata que fica na parte basal enterrada a poucos centimetros do solo. Essa batata é arrancada do solo com uma ferramenta em formato de unha de ferro, após a extraçao essa batata é trirurada e e colocada no cocho juntamente com aoutros ingredientes para os animais.",
+    "composicaoProteica": 5.66,
+    "composicaoCarboidratosTotais": 81.20,
+    "composicaoBromatologica": "Matéria Seca: 20,05;Matéria Orgânica: 91,84; Matéria Mineral: 8,24; Proteína Bruta: 5,66;Extrato Etéreo: 4,91;Fibra de Detergente Neutro: 57,94; Fibra em Detergente Ácido: 36,55; Carboidratos não Fibrosos: 23,26; Carboidratos totais: 81,20.",
+    "consideracoesComposicao": "Como toda planta rica em umidade a macambira apresenta um baixo percentual de proteína, porém os carboidratos ttais são elevados.",
+    "formasPropragacao": "A Macambira é propagada por sementes.",
+    "formasPropragacaoDetalhes": "Os frutos da Macambira são os responsáveis por liberar no meio ambiente as sementes que ao chegar ao solo fica esperando as condições favoráves a germinação.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Não foram encontrados relatos sobre a produtividade desta especie, provavelmente por se tratar de uma especie pouco conhecida ainda na alimentação animal, sendo mais divulgados sua potencialidade como fibra para confecção artesanal.",
+    "neutralizacaoDeFatoresAnti": "Como fatores antiutricionais da raiz da macambira temos os teores de fibra (Lignina), que é reponsável por limitar a digestão.",
+    "desempenho": "Por se tratar de uma espécie pouco estudada na  alimentanão animal, não foram encontrados estudos sobre o desempenho de animais alimentados com o Velame, apenas estudos focados nos efeitos e potencialidades no uso como artesanal.",
+    "curiosidades": "A macambira (Bromelia laciniosa) é uma planta da família Bromeliaceae, a mesma do abacaxi. É endêmica da Caatinga, onde é fundamental para a manutenção da biodiversidade. O seu néctar é usado por diversas espécies de animais, seus frutos são comidos por pequenos mamíferos e lagartos, a própria planta facilita a germinação de sementes de outras espécies e serve de abrigo e refúgio para vários grupos de animais, especialmente lagartos e cobras. Além disso, a macambira é usada em momentos de seca para ser oferecida ao gado, no sertão. Como é fibrosa e rica em proteínas, o gado geralmente engorda rápido.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Forzza, R.C.,Costa, A.,Siqueira Filho, J.A.,Martinelli, G.,Monteiro, R.F.,Santos-Silva, F.,Saraiva, D. P.,Paixão-Souza, B.,Louzada, R.B.,Versieux, L. 2015. Bromeliaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil2015.jbrj.gov.br/FB16578)"
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Monteiro, R.F. 2020. Bromelia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (https://floradobrasil2020.jbrj.gov.br/FB16578)."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (https://doi.org/10.1590/2175-7860201566411)."
+      },
+      {
+        "_id": 4,
+        "pesquisa": "BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (https://doi.org/10.1590/2175-7860201869402)."
+      }
+    ]
+  },
+  {
+    "_id": 36,
+    "nomePopular": "Aroiera",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707155602/AROEIRA-VERMELHA/kngslrw4fkdllrrrcgzh.jpg"
+      }
+    ],
+    "nomesPopulares": "Aroeira, aroeira mansa, aroeira da praia, aroeira vermelha e aroeira rosa",
+    "nomeCientifico": "Schinus terebinthifolia Raddi",
+    "nomeFamilias": "Anacardiaceae",
+    "consumidorPor": "As folhas secas sevem como forragem para caprinos ovinos e bovinos",
+    "partesUtilizadas": "Folhas secas",
+    "formasConservacao": "Podem ser conservada na forma de feno e silagem.",
+    "formasOfertaPreparo": "A Aroeira pode ser ofertada aos animais é na forma de mistura múltipla, juntamente com outros volumosos (capim, folhagem, feno de espécies forrageiras), ração concentrada proteica e energética.",
+    "composicaoProteica": 14.20,
+    "composicaoCarboidratosTotais": 72.55,
+    "composicaoBromatologica": "Matéria Seca: 40,45;Matéria Orgânica: 93,51; Matéria Mineral: 6,36; Proteína Bruta: 14,20;Extrato Etéreo: 6,90;Fibra de Detergente Neutro: 36,43; Fibra em Detergente Ácido: 20,94; Carboidratos não Fibrosos: 36,12; Carboidratos totais: 72,55.",
+    "consideracoesComposicao": "A Aroeira é uma espécie pouco procurada pelos animais no período de abundancia de forragem, sendo atrativa apenas nos períodos mais críticos quando as forragens tradicionais já estão bem escassas. A pouca procura se dá pelo fato das folhas serem consumidas maduras ou secas.",
+    "formasPropragacao": "Sementes, estaquia a partir de segmentos da raiz e do caule.",
+    "formasPropragacaoDetalhes": "A propagação pode ser feita por sementes ou por estaquia a partir de segmentos da raiz e do caule, já que ambos emitem brotações quando cortados.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Não foram encontrados relatos sobre a produtividade desta especie, provavelmente por se tratar de uma especie pouco conhecida no que se refere a alimentação animal, sendo mais divulgada as potencialidades como farmaco.",
+    "neutralizacaoDeFatoresAnti": "As analises fitoquímicas registraram a presença de alto teor de tanino, biflavonóides e ácidos triterpênicos nas cascas de S.terebinthifolius, e de até 5% de mono e sesquiterpenos no óleo essencial de frutos e folhas, demonstrando que alguns componentes dos óleos voláteis possam constituir uma proteção contra predadores e infestantes. No entanto os óleos são adicionados a alimentação do gado e as folhas secas são consumidas pelos ruminantes.",
+    "desempenho": "Por se tratar de uma espécie pouco estudada na  alimentanão animal, não foram encontrados estudos sobre o desempenho de animais alimentados com a Aroeira, apenas estudos focados nos efeitos e potencialidades no uso como farmacológico.",
+    "curiosidades": "A aroeira vermelha (Schinus terebinthifolius Raddi) é uma planta pioneira, da família Anacardiaceae, nativa do Brasil. Ocorre de Pernambuco até o Rio Grande do Sul em várias formações vegetais, e seu aspecto diferencia-se em função de sua adaptação a esses distintos ambientes, podendo apresentar-se como arbustos rasteiros e retorcidos ou na forma de árvore com fuste desenvolvido e copa globosa.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "ANVISA. Ministério da Saúde. Monografia da Espécie Schinus terebinthifolius RADDI (AROEIRA-DA-PRAIA). Brasília, 2014."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Coinbra, R. Manual de Fitoterapia, 2ª ed, Cejup, 1994, pág. 229-230."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Gilbert, B.; Favoreto, R. Schinus terebinthifolius Raddi. Revista Fitos, vol.6, n.1,p.43-56 2011."
+      },
+      {
+        "_id": 4,
+        "pesquisa": "Grisi, F. G. Aspectos fisiológicos de aroeira (Schinus terbinthifolius Raddi), sob níveis distintos de saturação hídrica em ambiente protegido, e área ciliar em processo de recuperação. Tese (Doutorado em Engenharia Florestal) – UFPA, 127f, 2010"
+      }
+    ]
+  },
+  {
+    "_id": 37,
+    "nomePopular": "Aveloz",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707155618/AVELOZ/iwpyzfls0paqadk6wuf8.jpg"
+      }
+    ],
+    "nomesPopulares": "Aveloz, cega-olho, dedo-do-diabo, mata-verrugas, pau-pelado entre outros",
+    "nomeCientifico": "Euphorbia tirucalli L.",
+    "nomeFamilias": "Euphorbiaceae",
+    "consumidorPor": "Caprinos, ovinos e bovinos",
+    "partesUtilizadas": "As folhas ou talos verdes",
+    "formasConservacao": "Por se tratar de uma especie da familia das Euphorbiaceae  que apresenta um latex, é importante após a colheita deixar em ambiente sobreado, ventilado.",
+    "formasOfertaPreparo": "O Aveloz, deve ser triturado e misturado as outros ingredientes antes da oferta. É importante que os animais que vão iniciar o consumo passem por um tempo de adaptação a essa forragem.",
+    "composicaoProteica": 12.44,
+    "composicaoCarboidratosTotais": 76.33,
+    "composicaoBromatologica": "Matéria Seca: 18,42;Matéria Orgânica: 90,16; Matéria Mineral: 7,02; Proteína Bruta: 12,44;Extrato Etéreo: 4,22;Fibra de Detergente Neutro: 37,78; Fibra em Detergente Ácido: 25,08; Carboidratos não Fibrosos: 38,55; Carboidratos totais: 76,33.",
+    "consideracoesComposicao": "O Aveloz é uma espécie procurada pelos animais principalmente no período seco quando as forragens tradicionais já estão bem escassas. A pouca procura se dá pelo fato das folhas possuirem um latex que inibe um pouco o uso pelo animal.",
+    "formasPropragacao": "Por sementes (sexuada) ou por estaquias (assexuada)",
+    "formasPropragacaoDetalhes": "As sementes originadas pela planta ao cair no solo esperam as condições favoraveis a germinação, o uso de estacas da propria planta também é uma forma de propagação da espécie. ",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Como não se trata de uma planta costumeiramente utilizada na alimentação animal, existem poucos relatos neste sobre isso, o foco de uso desta espécie é voltado para medicina popular.",
+    "neutralizacaoDeFatoresAnti": "Na composição química do Aveloz foram encontrados triterpenos, eteróis, hidrocarbonetos, ácidos orgânicos, açúcares e éster de forbol. Outros compostos foram b-sitosterol, ácido cítrico, ácido elágico, euphorone, hentriacontano, hentriacontanol, isoeuphoral, kampferol, ácido málico, acetato de sapogenina, ácido succínico, taraxasterol, taraxerin, tirucallol, e outros. No entanto com todo esse arsenal de substâncias, o Aveloz ainda é consumido pelos caprinos, ovinos e bovinos.",
+    "desempenho": "Por se tratar de uma espécie pouco estudada na  alimentanão animal, não foram encontrados estudos sobre o desempenho de animais alimentados com o Aveloz, apenas estudos focados nos efeitos e potencialidades no uso como farmacológico.",
+    "curiosidades": "Aveloz,é originário da África,foi introduzido no Brasil,no início da colonização Brasileira, mesmo assim, está tão adaptado à paisagem nordestina,que até parece nativo da região. Os animais ,principalmente as cabras,gostam muito de suas folhas e de acordo com alguns criadores; os animais que consomem o aveloz,não tem problemas com parasitas intestinais(vermes).",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Giardini, I. J. M., “Atividade antiproliferativa in vitro do látex, de extratos brutos e de frações obtidas a partir do Synadenium grantii Hook. f. “– Piracicaba, SP: Dissertação (mestrado) – Universidade Estadual de Campinas, Faculdade de Odontologia de Piracicaba. 2012."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Lorenzi, H; Matos, F.J.A. Plantas Medicinais no Brasil: nativas e exóticas. 1a. ed. Nova Odessa, SP: Instituto Plantarum, 2002."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Souza, G.S. Propagação de plantas. Acesso em 10 de julho de 2011. Disponível em url: http://www.webartigos.com/articles/63762/1/PROPAGACAO-DEPLANTAS/pagina1.html"
+      }
+    ]
+  },
+  {
+    "_id": 38,
+    "nomePopular": "Marmelada de Cavalo",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707157394/MARMELADA/jhhqs7nglmksrwddi5zi.jpg"
+      }
+    ],
+    "nomesPopulares": "Marmelada de bode, perpetua do mato e terramicina, sempre-viva, caaponga, carrapichinho, perpétua-do-brasil, perpétua-do-mato, cabeça-branca, acônito-do-mato, nateira, terramicina, infalível, penicilina",
+    "nomeCientifico": "Alternanthera brasiliana L.",
+    "nomeFamilias": "Amaranthaceae",
+    "consumidorPor": "Caprinos, ovinos, bovinos e equídeos",
+    "partesUtilizadas": "As folhas ou talos verdes",
+    "formasConservacao": "A especie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "A Marmelada de cavalo pode ser colocada no cocho nas formas de feno ou silagem sempre na forma de mistura multipla, juntamento com outros ingredientes.",
+    "composicaoProteica": 16.90,
+    "composicaoCarboidratosTotais": 69.86,
+    "composicaoBromatologica": "Matéria Seca: 30,50;Matéria Orgânica: 89,64; Matéria Mineral: 10,36; Proteína Bruta: 16,90;Extrato Etéreo: 2,88;Fibra de Detergente Neutro: 45,72; Fibra em Detergente Ácido: 29,23; Carboidratos não Fibrosos: 24,14; Carboidratos totais: 69,86.",
+    "consideracoesComposicao": "A Marmelada de cavalo é uma planta que se desenvolve bem no periodo chuvoso, sendo uma opção para o produtor na hora de confeccionar um feno ou silagem para ofertar aos animais no período seco, por ter uma boa composição, podendo contribuir com a nutriçção dos animais.",
+    "formasPropragacao": "Multiplica-se por meio de sementes",
+    "formasPropragacaoDetalhes": "As semente são liberadas pela planta ao fim da frutificação ao solo e lá ficam até que lhes seja dada a condição de germinar.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Esta espécie não é costumeiramente utilizada na alimentação animal por isto existem poucos relatos sobre isso, o foco de uso desta espécie é voltado para medicina popular.",
+    "neutralizacaoDeFatoresAnti": "Estudos sobre a A. brasiliana indicaram a presença de terpenos, esteróides e compostos fenólicos. No extrato hexânico foi confirmada a presença de fitosterol e β-sitosterol; estes compostos, juntamente com outros grupamentos existentes nas frações mais polares, podem justificar a ação analgésica, com potência equivalente ao ácido acetilsalicílico e ao paracetamol, evidenciada com o extrato hidroalcoólico desta espécie. Com tudo se utilizada na forma de feno ou silagem juntamente a outros ingredientes para os animais ruminates não há riscos.",
+    "desempenho": "Por se tratar de uma espécie pouco estudada na  alimentanão animal, não foram encontrados estudos sobre o desempenho de animais alimentados com a Marmelada, apenas estudos focados nos efeitos e potencialidades no uso como farmacológico.",
+    "curiosidades": "Estudo com o extrato aquoso das partes aéreas mostrou potencial anti-inflamatório e analgésico em modelos experimentais. Outro trabalho mostrou efetividade para tratamento de feridas decorrentes de queimaduras.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Barua, C. C. et alWound healing activity of methanolic extract of leaves of Alternanthera brasiliana Kuntz using in vivo and in vitro model. Indian J Exp Biol., v. 47, n. 12, p.5-1001, Dec. 2009."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Baru, C. C., et al., Effect of Alternanthera brasiliana (L) Kuntze on healing of dermal burn wound. Indian Journal of Exp. Biol. 2012 Jan; 50(1):56-60. Disponível em: <https://pubmed.ncbi.nlm.nih.gov/22279942/>."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Lorenzi, H.; Matos, F. J. A. Plantas Medicinais no Brasil: nativas e exóticas. 2. ed. Nova Odessa, SP: Instituto Plantarum, 2008. p. 46-47."
+      },
+      {
+        "_id": 4,
+        "pesquisa": "Pereira, D. F. Morfoanatomia e histoquímica comparativa entre Alternanthera brasiliana (L.) Kuntze e Alternanthera dentata (Moench) Stuchlik; Estudo fitoquímico e biológico de Alternanthera brasiliana. 2007. Dissertação de Mestrado, Universidade Federal de Santa Maria, Santa Maria, 2007"
+      }
+    ]
+  },
+  {
+    "_id": 39,
+    "nomePopular": "Canafistula",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707155679/CANAFISTULA/jscgwykl6qgihhntfqx3.jpg"
+      }
+    ],
+    "nomesPopulares": "Canafistula, pau-vermelho; quebra-serra, angico-bravo, camurça, curucaia, ibirá e monjoleiro",
+    "nomeCientifico": "Peltophorum dubium",
+    "nomeFamilias": "Fabáceas",
+    "consumidorPor": "Caprinos, ovinos e bovinos",
+    "partesUtilizadas": "As folhas ou talos flexiveis ",
+    "formasConservacao": "A especie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "A Canafistula pode ser colocada no cocho nas formas de feno ou silagem sempre na forma de mistura multipla, juntamento com outros ingredientes.",
+    "composicaoProteica": 16.95,
+    "composicaoCarboidratosTotais": 72.76,
+    "composicaoBromatologica": "Matéria Seca: 88,01;Matéria Orgânica: 92,49; Matéria Mineral: 7,37; Proteína Bruta: 16,95;Extrato Etéreo: 2,93;Fibra de Detergente Neutro: 45,11; Fibra em Detergente Ácido: 32,16; Carboidratos não Fibrosos: 27,65; Carboidratos totais: 72,76.",
+    "consideracoesComposicao": "A Canafistula vargem é um alimento que depois de farelado possui um cheiro agradavel, o que torna atrativo ao animal, podendo ser acrescentada nos farlos em comum ou juntamente a ouros alimentos farelados, mais tambme pode ser colocada inteira no cocho junto aos demais ingredientes. Possui uma composição bromatológica muito boa e por isso pode contribuir com aalimetação animal dos rebanhos do semiárido.",
+    "formasPropragacao": "Semente ou estaquias",
+    "formasPropragacaoDetalhes": "As semente são liberadas pela planta ao fim da frutificação ao solo e lá ficam até que lhes seja dada a condição de germinar, mais também pode ser multiplicada por estacas da propria planta.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Segundo estudos realizados sobre a produtividade da Canafistula, essa apresente uma produção equivalente a 19600 kg/ha/ano.",
+    "neutralizacaoDeFatoresAnti": "A Canafistula possui alguns constituintes químicos, tais como: saponina em pequena quantidade nas folhas, presença intensa na casca e muito intensa no lenho. O que não afeta o consumo pelo animal principalmente se a planta estiver seca ou ensilada.",
+    "desempenho": "Alimentação animal: a forragem da canafístula apresenta bons percentuais de proteína bruta e baixo teor de tanino, porém não se tem dados sobre o desempenho de animais se alimentando com a espécie. Como planta Apícola: as flores da canafístula são melíferas, com produção de néctar. Na medicinal: as raízes, folhas, flores e frutos possuem propriedades medicinais e são usadas na medicina popular.",
+    "curiosidades": "Planta natural da América do Sul, ocorrendo na Argentina, Brasil, Paraguai e Uruguai. No Brasil esta presente nas regiões Nordeste, Centro-Oeste, Sudeste e Sul.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Lorenzi, H. Árvores Brasileiras. Manual de Identificação e Cultivo de Plantas Arbóreas do Brasil. 2ª edição. Nova Odessa, SP: Editora Plantarum, 368 p.1998. https://pt.wikipedia.org(Acesso em junho de 2016)"
+      },
+      {
+        "_id": 2,
+        "pesquisa": "http://floradobrasil.jbrj.gov.br (Acesso em junho de 2016)"
+      },
+      {
+        "_id": 3,
+        "pesquisa": "http://www.ufrgs.br (Acesso em junho de 2016)"
+      },
+      {
+        "_id": 4,
+        "pesquisa": "http://www.jardineiro.net(Acesso em junho de 2016)"
+      }
+    ]
+  },
+  {
+    "_id": 40,
+    "nomePopular": "Pornuça",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707157705/PORNUNCA/e9q88wrbto4xmrqoo1tp.jpg"
+      }
+    ],
+    "nomesPopulares": "Pornunça, mandioca-forrageira, porúncia, prinunça, pornona, mandioca-de-sete-anos, ou maniçoba-de-jardim",
+    "nomeCientifico": "Manihot esculenta Cranz x Manihot glaziovii",
+    "nomeFamilias": "Euphorbiaceae",
+    "consumidorPor": "Caprinos, ovinos, bovinos e galináceos",
+    "partesUtilizadas": "As folhas ou talos flexiveis",
+    "formasConservacao": "A especie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "A Pornunça é uma hibrida com boa composiçao bromatológica, capaz de suprir boa parte das necessidades dos animais que consomem a planta. A planta é colocada no cocho juntamente com outros ingredientes.",
+    "composicaoProteica": 17.34,
+    "composicaoCarboidratosTotais": 69.18,
+    "composicaoBromatologica": "Matéria Seca: 31,50;Matéria Orgânica: 93,45; Matéria Mineral: 6,55; Proteína Bruta: 17,34;Extrato Etéreo: 6,93;Fibra de Detergente Neutro: 43,86; Fibra em Detergente Ácido: 34,02; Carboidratos não Fibrosos: 25,32; Carboidratos totais: 69,18.",
+    "consideracoesComposicao": "O híbrido herdou as qualidades forrageiras e a rusticidade das espécies que são bem adaptadas ao ambiente da caatinga, sendo mais produtiva que as espécies que lhes deram origem, retém as folhas por mais tempo no período da seca, além de suportar até 3 cortes. O feno da pornunça tem em média, 17% de proteína.",
+    "formasPropragacao": "Semente ou estaquias",
+    "formasPropragacaoDetalhes": "As semente são liberadas pela planta ao fim da frutificação ao solo e lá ficam até que lhes seja dada a condição de germinar, mais também pode ser multiplicada por estacas da propria planta.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Em estudo a pornunça apresentou produtividade crescente no período de 2005 a 2008, atingindo o valor superior a 39 ton.ha-1 de massa verde, com a realização de dois cortes. Desse total, 63,42% corresponde a fração folhas e 36,58% nos ramos quando são realizados cortes emintervalos curtos.",
+    "neutralizacaoDeFatoresAnti": "Algumas plantas do gênero Manihot podem causar intoxicação nos animais dependendo da forma como é administrada por possuírem altos conteúdos de glicosídeos cianogênicos, que ao hidrolisarem-se e mediante a ação da enzima linamarase, dão origem ao ácido cianídrico. A pornunça possui um potencial produtivo melhor que todas essas plantas do mesmo gênero.",
+    "desempenho": "Um estudo realizado em 2014, tendo o feno de pornuça em substituição ao feno tifton foi observado ganhos diarios acimo do preconizado pe NRC 2007 (250g/dia), chegando a uma marge de 280 g/dia, sendo melhor que o feno de Tifton.",
+    "curiosidades": "A Pornunça é uma planta híbrida, cuja nova espécie não foi ainda classificada botanicamente, muito resistente e capaz de ser utilizada como importante forragem para a nutrição de ruminantes na região seca do Nordeste tanto na forma de feno ou silagem, como in natura.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Araújo, G.E.L. de; Base, P.L.; Menezes, D.R. et al. Substituição da raspa de mandioca por farelo de palma forrageira na dieta de ovinos. Revista Brasileira de Saúde e Produção Animal, v.10, n.2, p.448-459, 2009."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Araújo, G.G.L. de; Moreira, J.N.; Ferreira, M. de A. et al. Consumo voluntário e desempenho de ovinos submetidos a dietas contendo diferentes níveis de feno de maniçoba. Revista Ciência Agronômica, v.35, n.1, p.123 – 130, 2004."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Berchielli, T. T.; Garcia, A. de V.; Oliveira, S. G.; Principais técnicas de avaliação aplicadas em estudo de nutrição. In: BERCHIELLI, T. T.; PIRES, A. V.; OLIVEIRA, S. G de. (Ed.) Nutrição de ruminantes. Jaboticabal: Funep, p. 397-421, 2006."
+      },
+      {
+        "_id": 4,
+        "pesquisa": "Coelho, M. C. S. C. Feno de pornunça (Manihot spp.) na alimentação de ovinos em confinamento no semiárido. Tese apresentada ao departamento de Zootecnia da UFRPE – Recife-PE, p 96, ano 2014"
+      }
+    ]
+  },
+  {
+    "_id": 41,
+    "nomePopular": "Juazeiro",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707157172/JUAZEIRO/czmkzxljmjkaad5xar1j.jpg"
+      }
+    ],
+    "nomesPopulares": "Joá, juazeiro, juá, juá-bravo, juá-de-boi, juá-espinho, juá-fruta, juá-mirim, laranjeira-de-vaqueiro, loquiá",
+    "nomeCientifico": "Ziziphus joazeiro Martius",
+    "nomeFamilias": "Rhamnaceae",
+    "consumidorPor": "Caprinos, ovinos, bovinos e galináceos",
+    "partesUtilizadas": "As folhas e frutos",
+    "formasConservacao": "A especie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "O Juazeiro é uma planta arborea com boa composiçao bromatológica, capaz de suprir boa parte das necessidades dos animais que consomem a planta. A planta é colocada no cocho juntamente com outros ingredientes.",
+    "composicaoProteica": 15.38,
+    "composicaoCarboidratosTotais": 74.04,
+    "composicaoBromatologica": "Matéria Seca: 15,38;Matéria Orgânica: 90,07; Matéria Mineral: 6,97; Proteína Bruta: 15,38;Extrato Etéreo: 3,62;Fibra de Detergente Neutro: 53,44; Fibra em Detergente Ácido: 36,10; Carboidratos não Fibrosos: 20,60; Carboidratos totais: 74,04.",
+    "consideracoesComposicao": "Juazeiro é uma planta com boa composiçao bromatológica, capaz de suprir parte das exigências nutricionais dos ruminantes",
+    "formasPropragacao": "Sementes ou estacas",
+    "formasPropragacaoDetalhes": "As semente do Juazeiro liberadas ao solo após a frutificação fica a espera das condições para germinar, mais também pode ser multiplicada por estacas da propria planta.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Apesar de fazer parte da alimentação animal nas regiões do semiárido o juazeiro existem poucos relatos sobre a sua utilização como volumoso extrategico para ruminantes. A planta possui boa composição nutricional e as partes mais utilizadas são as folhas na forma de feno e os frutos.",
+    "neutralizacaoDeFatoresAnti": "composição química do extrato hidroalcoólico de folhas de Z. joazeiro, encontrando moléculas que agem sinergicamente com antibióticos, identificando tal extrato como uma fonte promissora de moléculas que podem atuar em infecções causadas por bactérias resistentes. Tais substâncias não inviabiliza a utilização do Juazeiro na alimentação animal.",
+    "desempenho": "Nao foram encontrados estudos relatando desempenho de animais alimentados com Juazeiro, porém outro estudo testando a inclusão de 0,6 e 1,2% feno de Juazeiro, como fonte de saponina, não promove efeitos significativos no consumo, produção, característica físicoquímicas do leite e parâmetros sanguíneos de cabras Anglo Nubianas.",
+    "curiosidades": "O Juazeiro, mantém a folhagem verde durante todo o ano, podendo apresentar uma redução nos anos mais secos ou, antes do início da floração. A planta pode perder as folhas durante o período de estiagem. Renova a folhagem em outubro, no maior vigor da seca. A floração ocorre no final da estação seca e inicio da estação chuvosa e a frutificação ocorre na estação chuvosa.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Bawa, S.A.; Ofori, E.K.S.; Osae, M. Species diversity and relative abundance of Callosobruchus (Coleoptera: Chrysomelidae) in stored cowpea in four major agricultural produce markets in the central region, Ghana. Journal of Stored Products Research.v.72. p. 117-120, 2017."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Bezerra, C.S.; Oliveira, C.F.R.; Machado, O.L.T.; et al. Exploiting the biological roles of the trypsin inhibitor from Inga vera seeds: A multifunctional Kunitz inhibitor. Process Biochemistry.v. 51.p. 792–803, 2016."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Carvalho, P. E. R. Juazeiro – Ziziphus joazeiro. Embrapa, Colombo, PR. Embrapa Florestas. Circular Técnica 139, 2007."
+      },
+      {
+        "_id": 4,
+        "pesquisa": "Maia, G. N. Caatinga: árvores e arbustos e suas utilidades. 2. ed. Fortaleza-CE: Printcolor Gráfica e Editora, 2012."
+      }
+    ]
+  },
+  {
+    "_id": 42,
+    "nomePopular": "Agave SubProduto",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707155504/AGAVE/ilxmrm9pgn39mgoftgfo.jpg"
+      }
+    ],
+    "nomesPopulares": "Agave, sisal, pita, piteira, piteira-de-boi, aloé-dos-cem-anos e cato-dos-cem-anos",
+    "nomeCientifico": "Agave americana",
+    "nomeFamilias": "Agavaceae",
+    "consumidorPor": "Bovinos",
+    "partesUtilizadas": "Bagaço verde após a retirada da bucha (fibras enroladas no ato da extração)",
+    "formasConservacao": "Por se tratar de uma espécie rica em nutrientes e também água, ao ser coletada o armazenamento deve ocorrer em local sombreado, livre se umidade e deve ser bem ventilado.",
+    "formasOfertaPreparo": "O bagaço ainda verde ou fermentado, depois de retirada a bucha (fibras enroladas no ato da extração) é ótimo alimento para os bovinos. Há variedades cultivadas para o fabrico de bebidas. A planta é colocada no cocho juntamente com outros ingredientes.",
+    "composicaoProteica": 9.95,
+    "composicaoCarboidratosTotais": 82.18,
+    "composicaoBromatologica": "Matéria Seca: 19,55;Matéria Orgânica: 90,72; Matéria Mineral: 8,21; Proteína Bruta: 6,95;Extrato Etéreo: 2,66;Fibra de Detergente Neutro: 39,79; Fibra em Detergente Ácido: 26,52; Carboidratos não Fibrosos: 42,39; Carboidratos totais: 82,18.",
+    "consideracoesComposicao": "A Agave é uma planta com boa composiçao bromatológica, capaz de fornecer produtos que participam da alimentação animal e assim suprir parte das exigências nutricionais dos ruminantes",
+    "formasPropragacao": "Por rebentões, bulbilhos e sementes.",
+    "formasPropragacaoDetalhes": "Os rebentões, espécies de “filhotes”, originam-se a partir dos rizomas da planta-mãe e são plantados diretamente no local definitivo. Bulbilhos, brotos que se destacam da inflorescência, enraízam-se e formam novas plantas. São cultivadas em viveiros, antes de irem para o campo e sementes.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "A produtividade em relação ao produto consumido pelos bovino não é o foco da produção do agave por este motivo não foram encontrados dados sobre o assunto, porém, a produção de fibra varia entre 200 a 600 gramas de fibra seca, por planta. A exploração começa no terceiro ano, logo que as folhas começam a mudar de coloração e se inclinam para o solo. Cada corte pode dar 6-8 folhas, ou sejam, 24/32 folhas por ano. O rendimento, em peso, de fibra seca é de aproximadamente 10%.",
+    "neutralizacaoDeFatoresAnti": "Na composição quimica a Agave apresenta uma substância chamada saponina (hecogenina). Porem não impede o uso do bagaço, após extração da bucha.",
+    "desempenho": "Por se tratar de uma espécie cujo foco da utilização não é para alimentanão animal mais sim a produção de fibra e bebida alcoólica o subproduto dessa produção é o bagaço e a mucilagem que é utilizado na alimentação animal e por isso existe poucos estudos relatando esse uso. Com tudo um estudo relata que a silagem da mucilagem do sisal pode substituir o feno de Tifton-85 em até 100% sem que haja prejuízo no desempenho dos animais. No entanto, o desempenho pode ser prejudicado em altas inclusões de silagem, dependente da qualidade da mesma e causado por um menor consumo.",
+    "curiosidades": "Além de ser a matéria prima para produção de uma das bebidas alcoólicas mais consumidas no méxico (Tequila), também é usada na medicina popular como antiescorbútica, anti-sifilítica, anti-séptica, depurativa do sangue, digestiva, diurética, estomáquica, expectorante, hemostática, hepática, laxante, resolutiva, vulnerária.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Brandão, L.G.N., Pereira, L.G.R., Azevêdo, J.A.G., Santos, R.D., Aragão, A.S.L., Voltolini, T.V., Neves, A.L.A., Araújo, G.G.L., Brandão, W.N. Valor nutricional de componentes da planta e dos coprodutos da Agave sisalana para alimentação de ruminantes. Arquivo Brasileiro de Medicina Veterinária e Zootecnia., v.63, n.6, p.1493-1501, 2011."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Faria, M.M.S.; Jaeger, S.M.P.L.; Oliveira, G.J.C. et al Composição bromatológica do coproduto do desfibramento do sisal tratado com ureia. Rev. Bras. Zootec., v.37. p.377-382, 2008."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Pinto, C.W.C., Sousa, W.H. DE., Filho, E.C.P., Cunha, M. DAS G. G., Neto, S.G. Desempenho de cordeiros Santa Inês terminados com diferentes fontes de volumosos em confinamento.Agropecuária Técnica, v.26, n.2, p.123–128, 2005."
+      },
+      {
+        "_id": 4,
+        "pesquisa": "Santos, R.D., Pereira, L.G.R., Neves, A.L.A., Brandão, L.G.N., Araújo, G.G.L., Aragão, A.S.L., Brandão, W.N., Souza, R.A., Oliveira, G.F. Consumo e desempenho produtivo de ovinos alimentados com dietas que continham coprodutos do desfibramento do sisal. Arquivo Brasileiro Medicina Veterinária Zootecnia, v.63, n.6, p.1502-1510, 2011."
+      }
+    ]
+  },
+  {
+    "_id": 43,
+    "nomePopular": "Gravatá",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707157156/GRAVATA/gxy3cnzu0ol0eejwggc4.jpg"
+      }
+    ],
+    "nomesPopulares": "Gravatá,Agave-furcréia, Furcrea, Piteira, Uroatá-açú, Gravatá-açú, Caraguatá-açú, Pitera, Pita, Cocuiza, Taretra, Croata-açú, Piteira-estriada",
+    "nomeCientifico": "Furcraea foetida",
+    "nomeFamilias": "Asparagaceae",
+    "consumidorPor": "Caprinos, ovinos e bovinos",
+    "partesUtilizadas": "Folhas",
+    "formasConservacao": "Por se tratar de uma espécie rica em nutrientes e também água, ao ser coletada o armazenamento deve ocorrer em local sombreado, livre se umidade e deve ser bem ventilado.",
+    "formasOfertaPreparo": "As folhas triturasdas e ofertadas juntamente com outros ingredientes na forma de mistur multipla, asim como as folhas o bagaço também no caso da extração da fibra. A planta é colocada no cocho juntamente com outros ingredientes.",
+    "composicaoProteica": 7.86,
+    "composicaoCarboidratosTotais": 82.52,
+    "composicaoBromatologica": "Matéria Seca: 16,95;Matéria Orgânica: 92,94; Matéria Mineral: 6,20; Proteína Bruta: 7,86;Extrato Etéreo: 3,40;Fibra de Detergente Neutro: 35,97; Fibra em Detergente Ácido: 26,95; Carboidratos não Fibrosos: 46,56; Carboidratos totais: 82,52.",
+    "consideracoesComposicao": "O Gravatá é uma planta com boa composiçao bromatológica, capaz de fornecer produtos que participam da alimentação animal e assim suprir parte das exigências nutricionais dos ruminantes",
+    "formasPropragacao": "Brotos,sementes e mudas tiradas da planta mãe.",
+    "formasPropragacaoDetalhes": "Multiplica-se mais facilmente por estolão, ou seja, brotos que saem da base do caule, mais só devem ser retirados quando estiverem com raízes próprias. As sementes germinam bem em substrato arenoso, num período de 60 a 120 dias, mais demoram cerca de 2 anos para atingir o tamanho de 40 cm. As mudas tiradas da planta mãe iniciam frutificação com 3 anos após o plantio, enquanto que mudas originarias de sementes frutificam com 5 a 8 anos.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "E estudo realizado sobre o uso do Gravatá constatou-se que é utilizado há mais de 50 anos na cidade de Vertente do Lério-PE e nunca houve relatos de intoxicação, abortos ou outras ocorrências em função do seu uso na alimentação de ruminantes, ofertada para todas as faixas etárias dos animais, onde seu uso vem de conhecimento popular dos habitantes da região. ",
+    "neutralizacaoDeFatoresAnti": "E estudo realizado sobre o uso do Gravatá constatou-se que é utilizado há mais de 50 anos na cidade de Vertente do Lério-PE e nunca houve relatos de intoxicação.",
+    "desempenho": "Por se tratar de uma espécie cujo foco da utilização não é para alimentanão animal o subproduto da planta que é utilizado com esse fim existe poucos estudos relatando esse uso. Com tudo um estudo relata que a silagem da mucilagem do sisal pode substituir o feno de Tifton-85 em até 100% sem que haja prejuízo no desempenho dos animais.",
+    "curiosidades": "Gravatá vem do tupi-guarani e significa “erva da folha fibrosa e a seqüência de vários A indica que os frutos são comestíveis. A planta possui ampla distribuição no território brasileiro em especial as regiões do semiárido.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Barbosa, C. Estratégias de estabelecimento da espécie exótica Furcraea foetia (L.) HAW (Agavaceae) e interferências na comunidade vegetal da restinga. 2011. 85f. Dissertação (Programa de Pós-Graduação em Ecologia) - Universidade Federal de Santa Catarina – Florianópolis - SC, 2011."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "García-Mendoza, A.J. Revisión del género Furcraea (Agavaceae). 200. 342f. Tesis de Doctorado em Ciencias (Biología), Facultad de Ciencias, UNAM, Méx, DF, México, 2001."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Santos, K.S. Estudo genético e citogenético em espécies do gênero Agave (Agavaceae). 2014. 83f. Tese (Programa de Pós-Graduação em Recursos Genéticos Vegetais) – Universidade Estadual de Feira de Santana- Feira de Santana- Ba, 2014."
+      },
+      {
+        "_id": 4,
+        "pesquisa": "Sarmento, A.S.M.; Barbosa, C.; Castellani, T.T.; Hanazaki, N. Interferência humana no estabelecimento e distribuição de Furcraea foetida (L.) HAW (Agavaceae) na praia mole, ilha de Santa Catarina, Brasil: Uma interface entre etnobotânica e espécies exóticas invasoras. Biodiversidade Brasileira, v.3, n.2, p.175-191, 2013."
+      }
+    ]
+  },
+  {
+    "_id": 44,
+    "nomePopular": "Pereiro",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707157682/PEREIRO/clru18rmf7y4yhjkkvrv.jpg"
+      }
+    ],
+    "nomesPopulares": "Pereiro, pau-pereiro, pereiro-branco, pereiro-preto, pereiro-vermelho, pau-de-coaru, peroba-rosa, peroba-paulista",
+    "nomeCientifico": "Aspidosperma pyrifolium Mart. & Zucc.",
+    "nomeFamilias": "Apocynaceae",
+    "consumidorPor": "Caprinos, ovinos e bovinos",
+    "partesUtilizadas": "Folhas",
+    "formasConservacao": "A especie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "O Pereiro é uma planta arbórea muito comenta entre os produtores por ser responsável por causar aborto e má deformação em fetos dos animais que se alimentam dessa planta. Desta forma sua utilização como volumoso é feita apenas para os animais machos e fêmeas fora de risco de gestação e sempre misturada a outros ingredientes farelados ou volumosos.",
+    "composicaoProteica": 13.40,
+    "composicaoCarboidratosTotais": 71.45,
+    "composicaoBromatologica": "Matéria Seca: 45,09;Matéria Orgânica: 89,60; Matéria Mineral: 11,12; Proteína Bruta:13,40;Extrato Etéreo: 4,04;Fibra de Detergente Neutro: 49,11; Fibra em Detergente Ácido: 35,78; Carboidratos não Fibrosos: 22,35; Carboidratos totais: 71,45.",
+    "consideracoesComposicao": "O Pereiro é um espécie arbórea que possui uma boa composiçao bromatológica, capaz de fornecer produtos que participam da alimentação animal e assim suprir parte das exigências nutricionais dos ruminantes, porém  esta espécie há indicios de que essa planta provoca aborto ou má deformação de fetos.",
+    "formasPropragacao": "Sementes ou estacas",
+    "formasPropragacaoDetalhes": "As semente são liberadas pela planta ao fim da frutificação ao solo e lá ficam até que lhes seja dada a condição de germinar, mais também pode ser multiplicada por estacas da propria planta.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Apesar de fazer parte da alimentação animal nas regiões do semiárido a planta o Pereiro possui poucos relatos sobre a sua utilização como volumoso extrategico para ruminantes. A planta possui boa composição nutricional e as partes mais utilizadas são as folhas na forma de feno e os frutos.",
+    "neutralizacaoDeFatoresAnti": "Algumas substâncias são facilmente neutralizadas por desidratação, torra, trituração etc, porém com relação ao Pereiro não foi realizado estudo sobre esse efeito o que se aconcelha é fornecer o Pereiro as folhas desidratadas, misturadas a outros ingredientes e fornecer apenas para machos e fêmeas fora do período gestacional. ",
+    "desempenho": "Por se tratar de uma espécie pouco estudada na  alimentanão animal, não foram encontrados estudos sobre o desempenho de animais alimentados com o Pereiro, apenas estudos focados nos efeitos e potencialidades no uso como farmacológico.",
+    "curiosidades": "O pereiro é uma espécie característica da Caatinga, de ampla ocorrência nas regiões semiáridas, ocorrendo também em outras formações com solos pedregosos no Centro-oeste e Sudeste, e Chaco do Brasil, Paraguai e Bolívia. A literatura aponta sua distribuição como ampla e com padrão disjunto, ocorrendo nas Florestas Tropicais Sazonalmente Secas (FTSS). É uma espécie adaptada a baixa pluviosidade (abaixo de 800mm/ano), altas temperaturas, com temperatura média que favorece seu crescimento em torno de 26 graus.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Castello, A.C.D.; Pereira, A.S.S.; Simões, A.O.; Koch, I. Aspidosperma in Flora do Brasil em construção. Jardim Botânico do Rio de Janeiro. Disponível em: <http://floradobrasil.jbrjv .gov.br/reflora/floradobrasil/FB15551>. Acesso em: 25 nov. 2020."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Júnior, FP.A.; Neta, M.N.S.; Morais, M.F.S.; Cordeiro, L.V.; Souza, H.D.S.; Sobreira, A.L.C.; Souza, J.B.P.; Lima, E.O. Características botânicas, agronómicas, fioquímicas e biológicas de Aspidosperma pyrifoliumMart.: Uma revisão. Research, Society and Development, 9 (7): 1-20. 2020."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Machate, D.J.; Alves F. M.; Farinaccio, M.A. Aspidosperma (Apocynaceae) no estado de Mato Grosso do Sul, Brasil. Rodriguésia, 67 (4): 1011-1024. 2016."
+      },
+      {
+        "_id": 4,
+        "pesquisa": "Messiades, D.M.S. Estudo das propriedade biológicas, fitoquímicas e toxicológicas de Aspidosperma pyrifolium Mart. Dissertação (Mestrado), Programa de Pós-graduaçao em Ciências Farmacêuticas), Universidade Estadual da Paraíba, Pró-Reitoria de Pós-Graduação e Pesquisa, 137 f. 2014."
+      }
+    ]
+  },
+  {
+    "_id": 45,
+    "nomePopular": "Melacia Forrageira",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707157448/MELANCIA-FORRAGEIRA/dzp4uqnhag3yujuni9e6.jpg"
+      }
+    ],
+    "nomesPopulares": "Melancia forrageira, melancia-de-cavalo, melancia-de-porco ou melancia-abóbora,",
+    "nomeCientifico": "Citrulus lanatus cv. citroidesl",
+    "nomeFamilias": "Cucurbitaceae",
+    "consumidorPor": "Caprinos, ovinos, bovinos e suinos",
+    "partesUtilizadas": "Fruto",
+    "formasConservacao": "A Melancia forrageira pode ser estocada no campo, em galpões ou em baixo de arvos que ofereça sombra e ambiente ventilado. O armazenamento a campo é barato porém com o inicio das chuvas pode haver perdar provocadas por bacterias que penetram o fruto e também pela umidade.",
+    "formasOfertaPreparo": "A Melancia forrageira pode ser triturada e misturado as outros ingredientes antes da oferta.",
+    "composicaoProteica": 19.12,
+    "composicaoCarboidratosTotais": 62.39,
+    "composicaoBromatologica": "Matéria Seca: 8,37;Matéria Orgânica: 83,65; Matéria Mineral: 15,27; Proteína Bruta:19,12;Extrato Etéreo: 3,22;Fibra de Detergente Neutro: 37,71; Fibra em Detergente Ácido: 27,56; Carboidratos não Fibrosos: 24,68; Carboidratos totais: 62,39.",
+    "consideracoesComposicao": "A Melancia forrageira há muito tempo, tem sido usada como alimento para os animais, em pequena escala, pelos pequenos produtores do Nordeste brasileiro. Durante a seca que ocorreu na região, no período compreendido entre 1990 e 1994, a sua utilização na alimentação animal apresentou bons resultados, visto que os criadores conseguiram manter os reimbanhos nas propriedades, sem ter que vendê-Ios a baixos preços ou sem ter que se deslocar para locais distantes, à procura de alimentos.",
+    "formasPropragacao": "Sementes",
+    "formasPropragacaoDetalhes": "As semente são liberadas pela planta ao fim da frutificação ao solo e lá ficam até que lhes seja dada a condição de germinar.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Estudos tem demonstrado que a melancia forrageira em terreno com fertilidade natural baixa, e chuva regular, produziu cerca de 25 toneladas de frutos por hectare, podendo chegar a 30 toneladas por hectare em um ano considerado bom com relação à distribuição de chuvas (média de 500mm).",
+    "neutralizacaoDeFatoresAnti": "A Melancia forrageira não apresenta efeitos provocados pos substância presentes em sua composição, podendo ser ofertada sem risco, porém é recomendado o uso juntamente com fontes de fibras, uma vez que a espécie possui em média de 85 a 90% de umidade podendo provocar disturbios metabólicos nos animais que utilizarem como unica fonte de alimento.",
+    "desempenho": "Em um trabalho realizado no ano de 1995, novilhos pastejando exclusivamente capim buffel durante 90 dias, no período seco, ganharam 26,5 kg de peso, enquanto aqueles suplementados com 25 kg de melancia por dia ganharam 33, O kg.",
+    "curiosidades": "A melancia forrageira não deve ser fornecida aos animais como fonte única de alimento. Isto porque, sendo ela constituída de, aproximadamente, 90% de água e 10% de matéria seca.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Moraes JPS, Angelim AES, Silva JAB, Gervásio RCRG.  Monitoramento da germinação e crescimento vegetativo em plantas de Melancia de Cavalo (Citrullus lanatuscv. Citroides), encontradas no bioma Caatinga –região do Vale do São Francisco. Revista Brasileira de Biociências, Porto Alegre, v.5, p.1068-1070, 2007."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Oliveira MC, Bernardinho FA. Melancia forrageira, um novo recurso alimentar para a pecuária das regiões do Nordeste do Brasil. Petrolina (PE): Circular Técnico da Embrapa Semi-Árido 17p. 2000."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Silva RLNV. Composição química, consumo e digestibili-dade aparente de dietas contendo diferentes níveis de farelo de melancia forrageira (Citrullus lanatuscv. Citroides e feno de guandu (Cajanus Cajancv. D1 Type), em ovinos. 2003. 74p. Dissertação (Mestrado em Medicina Veterinária Tropical) -Universidade Federal da Bahia, Salvado."
+      }
+    ]
+  },
+  {
+    "_id": 46,
+    "nomePopular": "Melão de São Caetano",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707157480/MELAO-DE-SAO-CAETANO/i9jgzeqn62bkql5rqk8t.jpg"
+      }
+    ],
+    "nomesPopulares": "Melão de são caetano, Erva-das-lavadeiras, erva-de-são-caetano, melãozinho, fruto-de-cobra, melão-amargo, erva-de-são-vicente",
+    "nomeCientifico": "Momordica charantia L.",
+    "nomeFamilias": "Cucurbitaceae",
+    "consumidorPor": "Caprinos, ovinos e bovinos",
+    "partesUtilizadas": "Planta inteira, principalmente os frutos",
+    "formasConservacao": "A espécie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "O Melão de são caetano pode ser triturado e misturado as outros ingredientes antes da oferta. ",
+    "composicaoProteica": 20.24,
+    "composicaoCarboidratosTotais": 61.49,
+    "composicaoBromatologica": "Matéria Seca: 19,89;Matéria Orgânica: 89,58; Matéria Mineral: 10,42; Proteína Bruta:20,24; Extrato Etéreo: 7,85;Fibra de Detergente Neutro: 32,35; Fibra em Detergente Ácido: 26,25; Carboidratos não Fibrosos: 29,15; Carboidratos totais: 61,49.",
+    "consideracoesComposicao": "O Melão de são caetano possui uma boa composição bromatológica, podendo ser utilizado como fonte de volumoso extratégico no período seco, na forma de feno ou silagem.",
+    "formasPropragacao": "Sementes",
+    "formasPropragacaoDetalhes": "As semente são liberadas pela planta ao fim da frutificação ao solo e lá ficam até que lhes seja dada a condição de germinar.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Apesar de fazer parte da alimentação animal nas regiões do semiárido a planta o Melão de são caetano possui poucos relatos sobre a sua utilização como volumoso extrategico para ruminantes. A planta possui boa composição nutricional e as partes mais utilizadas são as folhas na forma de feno. Como farmaco na medicina popular a espécie é mais divulgada como o uso do extrato alcoólico das folhas e ramos em ensaio farmacológico mostrou atividade anti-hiperglicemiante, enquanto o extrato aquoso apresentou em ensaio clínico atividade antileucêmica, antitumoral e antiviral",
+    "neutralizacaoDeFatoresAnti": "Nas folhas foram encontrados momordicinas e triterpenos, esteróides, saponinas e 14 triterpenos glicosilados que são os momordicosídios achados nos frutos e nas sementes e um alto teor de ferro assimilável. O que não impossibilita o uso como forragem para os animais ruminantes.",
+    "desempenho": "Por se tratar de uma espécie pouco estudada na  alimentanão animal, não foram encontrados estudos sobre o desempenho de animais alimentados com o Melão de são caetano, apenas estudos focados nos efeitos e potencialidades no uso como farmacológico.",
+    "curiosidades": "Foi trazido da África ao Brasil pelos escravos, que usavam o seu chá em banhos para facilitar o parto e para baixar febres. A denominação melão-de-são-caetano se deve aos escravos que se estabeleceram na região das minas auríferas e o plantaram ao redor de uma capelinha em Mariana, MG, cujo padroeiro era São Caetano.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "http://www.fitoterapia.com.br/portal/index.php?option=com_content&task=view&id=125)- Acesso em: 17 de abril de 2012."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Molento, M.B. Resistência de helmintos em ovinos ecaprinos. Revista Brasileira de ParasitologiaVeterinária, v.13, n.1, 2004. Suplemento"
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Papadopoulos, E. et al. Evaluation of the efficacy ofmoxidectin in a herd of goats after long-standing consistentuse. Small Ruminant Research, v.57, p.271–275, 2004."
+      },
+      {
+        "_id": 4,
+        "pesquisa": "Tongia Abhishek; Tongia Sudhir Kumar; Dave Mangala “Phytochemical determination and extraction of Momordica charantia fruit and its hypoglycemic potentiation of oral hypoglycemic drugs in diabetes mellitus (NIDDM)”. From Indian journal of physiology and pharmacology (2004), 48(2), 241-4.Database: MEDLINE (extraído artigo de SCIFINDER) Acesso 14 Abril 2016."
+      }
+    ]
+  },
+  {
+    "_id": 47,
+    "nomePopular": "Angico",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707155575/ANGICO/krt1gvpilwfbpuskh6bt.jpg"
+      }
+    ],
+    "nomesPopulares": "Angico, angico vermelho, angico preto",
+    "nomeCientifico": "Anadenanthera colubrina",
+    "nomeFamilias": "Fabaceae",
+    "consumidorPor": "Caprinos, ovinos e bovinos",
+    "partesUtilizadas": "Folhas e ramos flexiveis",
+    "formasConservacao": "A espécie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "No forma de feno o angico deve ser desidratado de forma eficiente e homogenea para que nas substancias presentes nele sejam bem reduzidas, já na forma de silagem a fermentação se encarrega de eliminar ou reduzir tais substâncias.",
+    "composicaoProteica": 16.13,
+    "composicaoCarboidratosTotais": 74.41,
+    "composicaoBromatologica": "Matéria Seca: 44,39;Matéria Orgânica: 92,70; Matéria Mineral: 7,30; Proteína Bruta:16,13; Extrato Etéreo: 2,16;Fibra de Detergente Neutro: 46,31; Fibra em Detergente Ácido: 32,10; Carboidratos não Fibrosos: 28,09; Carboidratos totais: 74,41.",
+    "consideracoesComposicao": "O Angico é uma planta que possui uma boa composição bromatológica, podendo ser utilizado como fonte de volumoso extratégico no período seco, na forma de feno ou silagem.",
+    "formasPropragacao": "Sementes e estacas da própria planta",
+    "formasPropragacaoDetalhes": "As semente são liberadas pela planta ao fim da frutificação ao solo e lá ficam até que lhes seja dada a condição de germinar, mais também pode ser multiplicada por estacas da propria planta.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "O Angico apresenta crescimento moderado a rápido, atingindo produtividade anual de até 17.39 ton/ha/ano",
+    "neutralizacaoDeFatoresAnti": "Essa casca, por sinal, é rica em taninos (substâncias produzidas pelas plantas que evitam ataques de microrganismos patogênicos – que causam doenças) e por isso muito utilizada em curtumes (fábrica de couros e peles). Na alimentação animal: as folhas murchas são tóxicas ao gado. Porém, fenadas ou secas, constituem boa forragem.",
+    "desempenho": "Em estudo realizado em 2006, o angico apresentou-se como melhor fonte de proteína para ruminantes, considerando-se os maiores valores de degradabilidade potencial, a maior solubilização da proteína e a mais elevada síntese de proteína microbiana.",
+    "curiosidades": "Como muitas das espécies da flora brasileira, o angico também possui valor medicinal. Sua casca tem propriedades adstringentes, depurativas e hemostáticas, ou seja, são indicadas: para reduzir sangramentos, combater diarreias, ajudar na cicatrização da pele; para ajudar a eliminar substâncias nocivas que prejudicam a saúde; e para estancar hemorragias.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Morim, M.P. 2015. Anadenanthera in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil2015.jbrj.gov.br/FB18071)"
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Morim, M.P. 2020. Anadenanthera in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (https://floradobrasil2020.jbrj.gov.br/FB18071)."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (https://doi.org/10.1590/2175-7860201566411)."
+      },
+      {
+        "_id": 4,
+        "pesquisa": "BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (https://doi.org/10.1590/2175-7860201869402)."
+      },
+      {
+        "_id": 5,
+        "pesquisa": "BFG. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. Taxon. 2021. (https://doi.org/10.1002/tax.12640)"
+      }
+    ]
+  },
+  {
+    "_id": 48,
+    "nomePopular": "Rapadura de Cavalo",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707157721/RAPADURA-DE-CAVALO/qfnxq4ykqpch0ag5cvj6.jpg"
+      }
+    ],
+    "nomesPopulares": "Rapadura de cavalo, amor-seco, Carrapicho-beiço-de-boi, Pega-pega, Esmódio",
+    "nomeCientifico": "Desmodium tortuosus",
+    "nomeFamilias": "Fabaceae",
+    "consumidorPor": "Caprinos, ovinos, bovinos e equídeos",
+    "partesUtilizadas": "Folhas e ramos flexiveis",
+    "formasConservacao": "A espécie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "A  planta Rapadura de cavalo pode ser ofertada na forma de feno ou ou silagem, misturada a outros ingredientes volumosos ou concentrados",
+    "composicaoProteica": 20.17,
+    "composicaoCarboidratosTotais": 66.78,
+    "composicaoBromatologica": "Matéria Seca: 28,48;Matéria Orgânica: 90,43; Matéria Mineral: 9,57; Proteína Bruta: 20,17; Extrato Etéreo: 3,48;Fibra de Detergente Neutro: 45,90; Fibra em Detergente Ácido: 27,80; Carboidratos não Fibrosos: 20,88; Carboidratos totais: 66,78.",
+    "consideracoesComposicao": "Rapadura de cavalo é uma planta que possui uma boa composição bromatológica, podendo ser utilizado como fonte de volumoso extratégico no período seco, na forma de feno ou silagem.",
+    "formasPropragacao": "Sementes",
+    "formasPropragacaoDetalhes": "As semente são liberadas pela planta ao fim da frutificação ao solo e lá ficam até que lhes seja dada a condição de germinar, mais também pode ser multiplicada por estacas da propria planta.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Não foram encontrados dados sobre a produtividades esta espécie forrageira, provavelmente por se tratar de uma especie que se destaca como planta daninha, presente nos mais diversos tipos de plantação. Sua utilização como forragem ainda é baixa e por isso não apresentam estudos como volumoso estrategico para o semiárido.",
+    "neutralizacaoDeFatoresAnti": "Não possui toxidez quando se trata da alimentação animal, porém na composição química foram identificados os flavonóides: Vitexina; Vitexin 2”-​O-​xyloside; Isovitexin (C-​6 isomer)​; Desmodin (Isovitexin 2”-​O-​xyloside)​. Contém D-Pinitol.",
+    "desempenho": "Não foram encontrados dados sobre o desempenho de animais alimentados com esta espécie forrageira, provavelmente por se tratar de uma especie que se destaca como planta daninha, presente nos mais diversos tipos de plantação. Sua utilização como forragem ainda é baixa ou pouco comhecida e por isso não apresentam estudos tratando do desempenho animal.",
+    "curiosidades": "Na Amazônia brasileira já era usada a bastante tempo pelos nativos, para uma série de problemas, desde nervosismo (infusão) a tratamento de infecções vaginais (banhos). O decocto das raízes secas é um remédio popular para tratar a malária e usado como contraceptivo por algumas tribos da Amazônia.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Lorenzi, H; Matos, F.J.A. Plantas Medicinais no Brasil: nativas e exóticas. 1. ed. Nova Odessa , SP: Instituto Plantarum, 2002."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Maes, Francis; Vlietinck, Arnold; Pieters, Luc; Apers, Sandra; Hermans, Nina – “Method for producing a plant extract from Desmodium and extract thereof”. From Belg. (2014), BE 1020835 A5 20140603.(Scifinder) Acesso 15 JAN 2016."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Zielinska-Pisklak, Monika A.; Kaliszewska, Dorota; Stolarczyk, Magdalena; Kiss, Anna K.- “Activity-guided isolation, identification and quantification of biologically active isomeric compounds from folk medicinal plant Desmodium adscendens using high performance liquid chromatography with diode array detector, mass spectrometry and multidimensional nuclear magnetic resonance spectroscopy”. From Journal of Pharmaceutical and Biomedical Analysis (2015), 102, 54-63. (Scifinder) Acesso 15 JAN 2016."
+      }
+    ]
+  },
+  {
+    "_id": 49,
+    "nomePopular": "Mucunã",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707157595/MUCUNA/ddjumss0tyhrkrse9rxb.jpg"
+      }
+    ],
+    "nomesPopulares": "Mucunã, mucuna-anã ou mucuna rajada",
+    "nomeCientifico": "Mucuna pruriens(L.) DC",
+    "nomeFamilias": "Fabaceae",
+    "consumidorPor": "Caprinos, ovinos e bovinos",
+    "partesUtilizadas": "Folhas e ramos flexiveis",
+    "formasConservacao": "A espécie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "A  Mucunã pode ser ofertada na forma de feno ou silagem, misturada a outros ingredientes volumosos ou concentrados  ",
+    "composicaoProteica": 21.02,
+    "composicaoCarboidratosTotais": 64.68,
+    "composicaoBromatologica": "Matéria Seca: 30,00;Matéria Orgânica: 92,59; Matéria Mineral: 9,33; Proteína Bruta: 21,02; Extrato Etéreo: 4,98;Fibra de Detergente Neutro: 44,57; Fibra em Detergente Ácido: 26,92; Carboidratos não Fibrosos: 20,11; Carboidratos totais: 64,68.",
+    "consideracoesComposicao": "A Mucunã é uma planta que possui uma boa composição bromatológica, podendo ser utilizada como fonte de volumoso extratégico no período seco, na forma de feno ou silagem.",
+    "formasPropragacao": "Sementes",
+    "formasPropragacaoDetalhes": "As semente são liberadas pela planta ao fim da frutificação ao solo e lá ficam até que lhes seja dada a condição de germinar, mais também pode ser multiplicada por estacas da propria planta.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Em estudo realizado em 2016, foi constatada uma produção média de massa seca de 4 espécies de Mucunã equivalente a 7.261 kg/ha/ano.",
+    "neutralizacaoDeFatoresAnti": "Trata-se de uma planta que possui em sua composição química a L-DOPA, tetrahidroisoquinolina, compostos fenólicos, nicotina, fisostigmina e alguns compostos indólicos",
+    "desempenho": "A mucuna-preta apresenta potencial até mesmo para a alimentação humana e animal. Isso porque os grãos têm alto teor de proteína e a planta pode ser usada para a produção de silagem e feno ou sob pastejo direto. O uso de Mucunã na alimentação animal se dá por meio das folhas secas ou ensiladas, mais também dos grãos para bovinos que é uma boa opção podendo apresentar até 18% de proteína bruta. Com tudo os dados de desempenho com o uso desta espécie ainda é pouco estudo, sendo o foco adubação verde ou como farmaco na medicina popular.",
+    "curiosidades": "A mucuna-preta é uma leguminosa de primavera/verão com hábito de crescimento trepador. Ela controla a presença de nematoides e de plantas daninhas, além de ser vantajosa para solos degradados. Trata-se de uma planta rústica e adaptada às condições de clima e de solo brasileiros.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Nimer,  R.;  Carvalho,  N.  M.;  Loureiro,  N.;  Perecin, D.  Influência  de  alguns  fatores  da  planta  sobre  o  grau  de dormência em sementes de mucuna-preta. Revista Brasileira de Sementes, Brasília, v.5, n.2, p.111-119, 1983."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Silva,  T.  R.  B.  Superação  da  dormência  de  sementes  de mucuna-preta   através   de   atrito   com   areia. Revista   de Agricultura, Piracicaba, v.76, n.3, p.469-475, 2001."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Silva,  A.  G.  de  B.  et  al.  Desempenho  agronômico  de  mucuna-verde  em  diferentes arranjos espaciais. Pesquisa  Agropecuária Brasileira. Brasília, v. 46, n. 6, p. 603-608, jun. 2011."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Silva,  E.  C.  da  et  al.  Adubação  verde  como  fonte  de  nutrientes  as  culturas.  In: FILHO,  O.  F.  de  L. Adubação  verde  e  plantas  de  cobertura  no  Brasil.  1.  ed. Brasília: Embrapa, 2014. p. 265-306."
+      }
+    ]
+  },
+  {
+    "_id": 50,
+    "nomePopular": "Feijão de Guandú",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707156900/FEIJAO-GUANDU/y7uc2amxn31prohpmbah.jpg"
+      }
+    ],
+    "nomesPopulares": "Guandu, ervilha-de-angola, ervilha-do-congo, feijão-de-árvore ou pigeon-pea",
+    "nomeCientifico": "Phaseolus vulgaris",
+    "nomeFamilias": "Fabaceae",
+    "consumidorPor": "Caprinos, ovinos e bovinos",
+    "partesUtilizadas": "Folhas, vargens e ramos flexiveis",
+    "formasConservacao": "A espécie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "O feijão guandú pode ser ofertado na forma de feno ou ou silagem, misturada a outros ingredientes volumosos ou concentrados",
+    "composicaoProteica": 19.15,
+    "composicaoCarboidratosTotais": 70.82,
+    "composicaoBromatologica": "Matéria Seca: 32,44;Matéria Orgânica: 93,13; Matéria Mineral: 6,50; Proteína Bruta: 19,15; Extrato Etéreo: 3,54;Fibra de Detergente Neutro: 52,23; Fibra em Detergente Ácido: 32,05; Carboidratos não Fibrosos: 18,59; Carboidratos totais: 70,82.",
+    "consideracoesComposicao": "As semente são liberadas pela planta ao fim da frutificação ou até mesmo colhidas e lançadas ao solo, onde ficam até que lhes seja dada a condição de germinar",
+    "formasPropragacao": "Sementes",
+    "formasPropragacaoDetalhes": "As semente são liberadas pela planta ao fim da frutificação ao solo e lá ficam até que lhes seja dada a condição de germinar, mais também pode ser multiplicada por estacas da propria planta.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "A produção de matéria seca é de 1.334 quilos por hectare, chegando a 2.710 quilos por hectare em anos com maior quantidade de chuvas. Para alimentação animal pode deixar os animais pastejarem direto, logo após a colheita dos grãos. Assim o produtor aproveita os restos da cultura que ficaram no campo. Também pode fazer um corte para produção de feno e, depois da rebrota, usar para pastejo direto. Um hectare pode produzir 1.330 quilos de matéria seca.",
+    "neutralizacaoDeFatoresAnti": "Na composiçao química do feijao guandú, foram encontrados proteína 23,11%, extrato etéreo 1,34%, açúcar solúvel 9,46% e polissacarídeos 16,77%. A fração proteica apresentou baixos níveis de aminoácidos sulfurados, iso- leucina, valina e treonina. Tais compostos, nao prejudicam a utilizaçao como feno ou silagem para animais ruminantes.",
+    "desempenho": "Em estudo realizado utilizando o consórcio do feijão guandu com outras forragens, foi possível manter até 3,5 novilhas por hectare. Na pastagem degradada, de 1,5 a duas novilhas por hectare; e, na recuperada, três. Como resultado houve um aumento do ganho de peso e da lotação animal, e houve tanbém a maior quantidade de carne produzida por hectare, 20 arrobas por hectare com a tecnologia do Guandu.",
+    "curiosidades": "O guandu, também conhecido como andu, é cultivado há bastante tempo em regiões semiáridas. A planta produz em solos com pouca chuva, onde outras culturas não se desenvolvem bem. o guandu pode ser cultivado para a produção de grãos para: Alimentação humana.; Produção de forragem  e Adubo verde, para recuperar o solo.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Brazaca, S. G. C.; Salgado, J. M.; Mancini Filho, J.; Novaes, N. J. Avaliação física, química, bioquímica e agronômica de cultivares de feijão-guandu (Cajanus cajan (L) Mill). Alimentos e Nutrição, v.7, p.37-45, 1996."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Frizon, D.; Castro, A. M. C. Desenvolvimento do feijão-guando (guandu) em diferentes densidades de solo argiloso. Varia Scientia, v.4. p.91-101, 2004."
+      }
+    ]
+  },
+  {
+    "_id": 51,
+    "nomePopular": "Jurema Branca",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707157225/JUREMA-BRANCA/woyhfnzeem5v2wjaxif4.jpg"
+      }
+    ],
+    "nomesPopulares": "Jurema branca, carcará, cassaco, jurema, rasga-beiço e saia-velha",
+    "nomeCientifico": "Piptadenia Stipulacea (Benth.) Ducke",
+    "nomeFamilias": "Fabaceae",
+    "consumidorPor": "Caprinos, ovinos e bovinos",
+    "partesUtilizadas": "Folhas, vargens e ramos flexiveis",
+    "formasConservacao": "A espécie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "A Jurema branca pode ser ofertada na forma de feno ou ou silagem, juntamente a outros ingredientes, e para animais de produção. Com tudo é importante que essa planta não faça parte da alimentação de animais em gestação pois as espécies desta família possuem em sua composiçao química substâncias abortivas ou causadoras de deformação de fetos.",
+    "composicaoProteica": 16.90,
+    "composicaoCarboidratosTotais": 70.19,
+    "composicaoBromatologica": "Matéria Seca: 38,81;Matéria Orgânica: 92,31; Matéria Mineral: 6,68; Proteína Bruta: 16,90; Extrato Etéreo: 6,24;Fibra de Detergente Neutro: 36,44; Fibra em Detergente Ácido: 29,74; Carboidratos não Fibrosos: 33,75; Carboidratos totais: 70,19.",
+    "consideracoesComposicao": "A Jurema branca é uma planta que possui uma boa composição bromatológica, podendo ser utilizado na alimentação animal, com excessão dos animais em período de gestação nas formas de feno ou silagem.",
+    "formasPropragacao": "Sementes ou através de estacas da própria planta",
+    "formasPropragacaoDetalhes": "As semente são liberadas pela planta ao fim da frutificação quando são lançadas ao solo, onde ficam até que lhes seja dada a condição de germinar ou até mesmo de estacas oriundas da própria planta.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Apesar de fazer parte da alimentação animal nas regiões do semiárido a Jurema branca possui poucos relatos sobre a sua utilização como volumoso extrategico para ruminantes. A planta possui boa composição nutricional e as partes mais utilizadas são as folhas e frutos na forma de feno ou silagem.",
+    "neutralizacaoDeFatoresAnti": "Nas cascas e raízes frescas da jurema pode-se encontrar um alcaloide denominado por nigerina em identificado posteriormente como um alcaloide indólico a N,N-dimetiltriptamina, uma potente substância alucinógena ou psicodisléptica responsável pelo seu efeito. A dimetiltriptamina, é uma substância psicodélica pertencente ao grupo das triptaminas, semelhante à serotonina e à melatonina, todos os três sendo derivados do aminoácido triptofano. Devida a presença destas substâncias na composição química da Jurama branca é que essa espécie não deve ser ofertada como forragem aos animais em período gestacional.",
+    "desempenho": "Não foram encontrados dados sobre o desempenho de animais alimentados com esta espécie forrageira, provavelmente por se tratar de uma especie que se destaca como farmaco ou outro ramo da utilização de plantas. Sua utilização como forragem ainda é baixa ou pouco comhecida e por isso não apresentam estudos tratando do desempenho animal.",
+    "curiosidades": "A Jurema branca devido a madeira, de pequenas dimensões, é indicada apenas para pequenas construções, estacas, lenha e carvão. No período de estiagem, suas folhas caídas e partes das cascas do tronco servem de alimento para os ruminantes que se alimentam nas pastagens nativas da Caatinga.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Tropicos. Mimosa tenuiflora (Willd.) Poir. Disponível em:<http://www.tropicos.org/Name/ 13036820>. Acesso em 02 mai. 2017."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Lorenzi, H. Árvores brasileiras: manual de identificação e cultivo de plantas arbóreas do Brasil. 4. ed. Nova Odessa, SP: Instituto Plantarum, 2014. 384 p."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Gomes, L. H. dos S. Desenvolvimento inicial de Piptadenia stipulacea em diferentes tipos e usos do solo da Caatinga.2015. 70 f. Dissertação (Mestrado em Produção Animal: Pastagem e Forragicultura)-Universidade Federal Rural do Semi-Árido, 2015."
+      },
+      {
+        "_id": 4,
+        "pesquisa": "Forzza, R. C. Lista de espécies Flora do Brasil. Disponível em:<http://floradobrasil.jbrj.gov.br/ 2010>. Acesso em 05 março 2017."
+      }
+    ]
+  },
+  {
+    "_id": 52,
+    "nomePopular": "Mororó Branco",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707157543/MORORO-BRANCO/f3xlhbkcofkabpsdrpmk.jpg"
+      }
+    ],
+    "nomesPopulares": "Mororó, pata-de-vaca, unha-de-vaca",
+    "nomeCientifico": "Bauhinia cheilantha (Bong.) Steud",
+    "nomeFamilias": "Fabaceae",
+    "consumidorPor": "Caprinos, ovinos e bovinos",
+    "partesUtilizadas": "Folhas, vargens e ramos flexiveis",
+    "formasConservacao": "A espécie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "O Mororó pode ser ofertado na forma de feno ou ou silagem, juntamente a outros ingredientes na forma de mistura completa, e para animais de produção.",
+    "composicaoProteica": 19.00,
+    "composicaoCarboidratosTotais": 68.87,
+    "composicaoBromatologica": "Matéria Seca: 40,35;Matéria Orgânica: 92,10; Matéria Mineral: 7,90; Proteína Bruta: 19,00; Extrato Etéreo: 4,23;Fibra de Detergente Neutro: 35,00; Fibra em Detergente Ácido: 23,80; Carboidratos não Fibrosos: 33,87; Carboidratos totais: 68,87.",
+    "consideracoesComposicao": "O Mororó é uma planta que possui uma boa composição bromatológica, podendo ser utilizado na alimentação animal, nas formas de feno ou silagem. O Mororó branco tem as folhas utilizadas para chás no combate a glicemia.",
+    "formasPropragacao": "Sementes ou através de estacas da própria planta",
+    "formasPropragacaoDetalhes": "As semente são liberadas pela planta ao fim da frutificação quando são lançadas ao solo, onde ficam até que lhes seja dada a condição de germinar ou até mesmo de estacas oriundas da própria planta.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "O Mororó possui uma produtividade média de 3.182 kg de MS/ha/ano, é uma produção consideravelmente baixa, porém posui um elevado teor de PB, que é um nutriente importante para a alimetação animal.",
+    "neutralizacaoDeFatoresAnti": "Apesar de apresentar em sua composição química os compostos Taninos flobafênicos e saponinas, o Moror´ro pode ser utilizado na alimentação animal sim pois boa parte destes compostos são eliminados ou reduzidos atraves dos processos de conservação fenação e ensilagem.",
+    "desempenho": "Em estudo realizado 2009, o autor concluiu que os fenos de mororó e sabiá têm alto teor de proteína bruta, porém praticamente a metade é indisponível. que a ingestão voluntária dos fenos de mororó e sabiá, como elementos exclusivos, é capaz de suprir a exigência de mantença de proteína e que os caprinos preferem o feno de sabiá ao de mororó. Outro trabalho realizado em 2020, relatou que a suplementação com palma forrageira e fenos de mororó e jitirana não melhorou o desempenho e as características de carcaça de caprinos criados a pasto na Caatinga",
+    "curiosidades": "Bauhinia cheilantha é uma leguminosa típica da Caatinga com uma grande importância socioeconômica. A espécie costuma ser usada como fonte de renda alternativa para as comunidades, que se beneficiam do seu grande potencial como forrageira. Por possuir alto teor de proteínas, as folhas são consumidas por bovinos, caprinos e ovinos, na forma de feno ou em pastejo direto. Sua madeira é utilizada em construções, cercas e como combustível",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Abdalla,  A.  L.,  Fº.,  Corrêa,  P.  S.,  Lemos,  L.  N., Dineshkumar,  D.,    Issakowicz,  J.,  Ieda,  E.  H.,...  Louvandini, H. (2017). Diets based on plants from Brazilian   Caatinga   altering   ruminal   parameters,   microbial community and meat fatty acids of Santa Inês  lambs.  Small  Ruminant  Research,  154(9), 70-77. doi: 10.1016/j.smallrumres.2017.07.005"
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Gutiérrez, I. E. M. de. 2010. Micropropagação de Bauhinia cheilantha (BONG.) STEUD. (FABACEAE). Universidade Estadual de Feira de Santana. Disponível em: <http://www2. uefs.br/ppgbiotec/portugues/arquivos/corpo%20discente/mestrado/2008/ingrid_estefania_mancia_de_gutierrez-dissertacao.pdf>. Acesso em: 17 Mar. 2020."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Maia, G.N. 2004. Caatinga: árvores e arbustos e suas utilidades. 1ª ed. São Paulo: D&Z computação gráfica e Editora.413 p."
+      },
+      {
+        "_id": 4,
+        "pesquisa": "Vaz, A.M.S.F. 2020. Bauhinia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro.Disponível em: <http://reflora.jbrj.gov.br/reflora/floradobrasil/FB82659>. Acesso em: 17 Mar. 2020"
+      }
+    ]
+  },
+  {
+    "_id": 52,
+    "nomePopular": "Mororó Lilás",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707157572/MORORO-LILAS/l4gcpflawzhafvwtz8bi.jpg"
+      }
+    ],
+    "nomesPopulares": "Mororó, pata-de-vaca, unha-de-vaca",
+    "nomeCientifico": "Bauhinia cheilantha",
+    "nomeFamilias": "Fabaceae",
+    "consumidorPor": "Caprinos, ovinos e bovinos",
+    "partesUtilizadas": "Folhas, vargens e ramos flexiveis",
+    "formasConservacao": "A espécie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "O Mororó pode ser ofertado na forma de feno ou ou silagem, juntamente a outros ingredientes na forma de mistura completa, e para animais de produção.",
+    "composicaoProteica": 20.29,
+    "composicaoCarboidratosTotais": 67.89,
+    "composicaoBromatologica": "Matéria Seca: 44,73;Matéria Orgânica: 91,25; Matéria Mineral: 7,75; Proteína Bruta: 20,29; Extrato Etéreo: 4,06;Fibra de Detergente Neutro: 40,28; Fibra em Detergente Ácido: 24,35; Carboidratos não Fibrosos: 27,61; Carboidratos totais: 67,89.",
+    "consideracoesComposicao": "O Mororó é uma planta que possui uma boa composição bromatológica, podendo ser utilizado na alimentação animal, nas formas de feno ou silagem. O Mororó Lilá é muito utilizado como planta ornamental.",
+    "formasPropragacao": "Sementes ou através de estacas da própria planta",
+    "formasPropragacaoDetalhes": "As semente são liberadas pela planta ao fim da frutificação quando são lançadas ao solo, onde ficam até que lhes seja dada a condição de germinar ou até mesmo de estacas oriundas da própria planta.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "O Mororó possui uma produtividade média de 3.182 kg de MS/ha/ano, é uma produção consideravelmente baixa, porém posui um elevado teor de PB, que é um nutriente importante para a alimetação animal.",
+    "neutralizacaoDeFatoresAnti": "Apesar de apresentar em sua composição química os compostos Taninos flobafênicos e saponinas, o Moror´ro pode ser utilizado na alimentação animal sim pois boa parte destes compostos são eliminados ou reduzidos atraves dos processos de conservação fenação e ensilagem.",
+    "desempenho": "Em estudo realizado 2009, o autor concluiu que os fenos de mororó e sabiá têm alto teor de proteína bruta, porém praticamente a metade é indisponível. que a ingestão voluntária dos fenos de mororó e sabiá, como elementos exclusivos, é capaz de suprir a exigência de mantença de proteína e que os caprinos preferem o feno de sabiá ao de mororó. Outro trabalho realizado em 2020, relatou que a suplementação com palma forrageira e fenos de mororó e jitirana não melhorou o desempenho e as características de carcaça de caprinos criados a pasto na Caatinga",
+    "curiosidades": "Bauhinia cheilantha é uma leguminosa típica da Caatinga com uma grande importância socioeconômica. A espécie costuma ser usada como fonte de renda alternativa para as comunidades, que se beneficiam do seu grande potencial como forrageira. Por possuir alto teor de proteínas, as folhas são consumidas por bovinos, caprinos e ovinos, na forma de feno ou em pastejo direto. Sua madeira é utilizada em construções, cercas e como combustível",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Vaz, A.M.S.F. 2020. Bauhinia in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. (https://floradobrasil2020.jbrj.gov.br/FB612722)."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (https://doi.org/10.1590/2175-7860201566411)."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "BFG. Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia, v.69, n.4, p.1513-1527. 2018. (https://doi.org/10.1590/2175-7860201869402)."
+      },
+      {
+        "_id": 4,
+        "pesquisa": "Vaz, A.M.S.F.; Santos, A.C.B. Bauhinia in Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro. Disponível em: <https://floradobrasil.jbrj.gov.br/FB612722>. Acesso em: 24 jan. 2024"
+      }
+    ]
+  },
+  {
+    "_id": 52,
+    "nomePopular": "Capim Belota",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707155706/CAPIM-BELOTA-BRANCO/w74iv5vlzgg8cqw08u5x.jpg"
+      }
+    ],
+    "nomesPopulares": "Capim belota ou capim branco",
+    "nomeCientifico": "Chloris elata Desv.",
+    "nomeFamilias": "Poaceae",
+    "consumidorPor": "Caprinos, ovinos e bovinos",
+    "partesUtilizadas": "Folhas, vargens e ramos flexiveis",
+    "formasConservacao": "A espécie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "O capim belota é uma poácea infestante em algumas áreas do semiárido paraibano, podendo ser adicionado a alimentação do rebanho mesmo não sendo atrativo aos animais como especies já utilizadas tradicionalmente, podendo ser ofertado juntamente com outros volumosos e concentrados destinados a alimetação animal.",
+    "composicaoProteica": 12.37,
+    "composicaoCarboidratosTotais": 73.79,
+    "composicaoBromatologica": "Matéria Seca: 19,71;Matéria Orgânica: 93,34; Matéria Mineral: 11,66; Proteína Bruta: 12,37; Extrato Etéreo: 2,18;Fibra de Detergente Neutro: 60,98; Fibra em Detergente Ácido: 36,62; Carboidratos não Fibrosos: 12,81; Carboidratos totais: 73,79.",
+    "consideracoesComposicao": "O Capim belota é uma planta que possui uma boa composição bromatológica, podendo ser utilizada na alimentação animal, nas formas de feno ou silagem.",
+    "formasPropragacao": "Sementes ou através de estacas da própria planta",
+    "formasPropragacaoDetalhes": "As sementes podem ser lançadas ao solo de forma natural para perpetuação da espécie, mais também estas sementes podem ser coletadas para com o objetivo da realização de um plantio no momento mais oportuno.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "O Capim Belota participa pouco da alimentação animal na região semiárida nordestina, por esse motivo, possui poucos relatos sobre a sua utilização como volumoso extrategico para ruminantes. As partes mais utilizadas são as folhas, talos e frutos na forma de feno ou silagem.",
+    "neutralizacaoDeFatoresAnti": "Não hà relatos sobre substãncias antinutricionais",
+    "desempenho": "Não hà relatos ou estudos sobre desempenho de animais alimentados com esta espécie",
+    "curiosidades": "Chloris elata, conhecida comumente como capim-branco, tem infestado áreas cultivadas onde predomina o controle químico realizado com o herbicida glifosato. Isso significa que esta espécie é muito resistente.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "MACIEL, J. R.; SILVA, W. C. D.. O gênero Chloris (Poaceae) em Pernambuco, Brasil. Rodriguésia [online]., vol.64, n.1, p.169-177, 2013."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Placido, H. F., González-Torralva, F., Barroso, A. A. M., Albrecht, A. J. P., Menéndez, J.; DE Prado, R.. Resistencia a glifosato em biótipos de Chloris polydactyla (L.) SW. recolectados em Brasil. Resvista Agropecuaria y Florestal APF. v.2, n.1, p.19-22, 2013."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Placido, H.F.; Albrecht, A.J.P.; Santos, R.; Albrecht, L.P.; Becker, A.; Barroso, A.A.M.; Victoria Filho, R. Identificação e manejo de biótipos de Chloris polydactyla com resistência ou suscetibilidade diferencial ao glyphosato no Estado do Paraná. Revista Brasileira de Herbicidas, v. 15, n. 3, p. 251-262, 2016."
+      }
+    ]
+  },
+  {
+    "_id": 52,
+    "nomePopular": "Capim Belota Roxa",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707155817/CAPIM-BELOTA-ROXO/l9vrk1vds214wrz5ztg8.jpg"
+      }
+    ],
+    "nomesPopulares": "Capim belota ou capim belota roxo",
+    "nomeCientifico": "Chloris elata Desv. | André C. Flickr",
+    "nomeFamilias": "Poaceae",
+    "consumidorPor": "Caprinos, ovinos e bovinos",
+    "partesUtilizadas": "Folhas, vargens e ramos flexiveis",
+    "formasConservacao": "A espécie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "O capim belota é uma poácea infestante em algumas áreas do semiárido paraibano, podendo ser adicionado a alimentação do rebanho mesmo não sendo atrativo aos animais como especies já utilizadas tradicionalmente, podendo ser ofertado juntamente com outros volumosos e concentrados destinados a alimetação animal.",
+    "composicaoProteica": 12.91,
+    "composicaoCarboidratosTotais": 72.88,
+    "composicaoBromatologica": "Matéria Seca: 24,09;Matéria Orgânica: 92,37; Matéria Mineral: 11,50; Proteína Bruta: 12,91; Extrato Etéreo: 2,70;Fibra de Detergente Neutro: 61,44; Fibra em Detergente Ácido: 37,31; Carboidratos não Fibrosos: 11,44; Carboidratos totais: 72,88.",
+    "consideracoesComposicao": "O Capim belota é uma planta que possui uma boa composição bromatológica, podendo ser utilizada na alimentação animal, nas formas de feno ou silagem.",
+    "formasPropragacao": "Sementes ou através de estacas da própria planta",
+    "formasPropragacaoDetalhes": "As sementes podem ser lançadas ao solo de forma natural para perpetuação da espécie, mais também estas sementes podem ser coletadas para com o objetivo da realização de um plantio no momento mais oportuno.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "O Capim Belota participa pouco da alimentação animal na região semiárida nordestina, por esse motivo, possui poucos relatos sobre a sua utilização como volumoso extrategico para ruminantes. As partes mais utilizadas são as folhas, talos e frutos na forma de feno ou silagem.",
+    "neutralizacaoDeFatoresAnti": "Não hà relatos sobre substãncias antinutricionais",
+    "desempenho": "Não hà relatos ou estudos sobre desempenho de animais alimentados com esta espécie",
+    "curiosidades": "Chloris elata, conhecida comumente como capim-branco, tem infestado áreas cultivadas onde predomina o controle químico realizado com o herbicida glifosato. Isso significa que esta espécie é muito resistente.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "MACIEL, J. R.; SILVA, W. C. D.. O gênero Chloris (Poaceae) em Pernambuco, Brasil. Rodriguésia [online]., vol.64, n.1, p.169-177, 2013."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Placido, H. F., González-Torralva, F., Barroso, A. A. M., Albrecht, A. J. P., Menéndez, J.; DE Prado, R.. Resistencia a glifosato em biótipos de Chloris polydactyla (L.) SW. recolectados em Brasil. Resvista Agropecuaria y Florestal APF. v.2, n.1, p.19-22, 2013."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Placido, H.F.; Albrecht, A.J.P.; Santos, R.; Albrecht, L.P.; Becker, A.; Barroso, A.A.M.; Victoria Filho, R. Identificação e manejo de biótipos de Chloris polydactyla com resistência ou suscetibilidade diferencial ao glyphosato no Estado do Paraná. Revista Brasileira de Herbicidas, v. 15, n. 3, p. 251-262, 2016."
+      }
+    ]
+  },
+  {
+    "_id": 53,
+    "nomePopular": "Capim Buffel",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707155839/CAPIM-BUFFEL/xidmz1xbehhrmezfwjqn.jpg"
+      }
+    ],
+    "nomesPopulares": "Capim buffel",
+    "nomeCientifico": "Cenchrus ciliaris",
+    "nomeFamilias": "Poaceae",
+    "consumidorPor": "Caprinos, ovinos e bovinos",
+    "partesUtilizadas": "Folhas, vargens e ramos flexiveis",
+    "formasConservacao": "A espécie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "O capim buffel é uma poácea infestante em algumas áreas do semiárido paraibano, podendo ser adicionado a alimentação do rebanho mesmo não sendo atrativo aos animais como especies já utilizadas tradicionalmente, podendo ser ofertado juntamente com outros volumosos e concentrados destinados a alimetação animal.",
+    "composicaoProteica": 6.27,
+    "composicaoCarboidratosTotais": 82.88,
+    "composicaoBromatologica": "Matéria Seca: 55,13;Matéria Orgânica: 89,00; Matéria Mineral: 11,00; Proteína Bruta: 6,27; Extrato Etéreo: 2,03;Fibra de Detergente Neutro: 71,66; Fibra em Detergente Ácido: 42,71; Carboidratos não Fibrosos: 11,22; Carboidratos totais: 82,88.",
+    "consideracoesComposicao": "O Capim Buffel é uma planta que possui uma boa composição bromatológica, podendo ser utilizada na alimentação animal, nas formas de feno ou silagem.",
+    "formasPropragacao": "Sementes ou através de estacas da própria planta",
+    "formasPropragacaoDetalhes": "As sementes podem ser lançadas ao solo de forma natural para perpetuação da espécie, mais também estas sementes podem ser coletadas para com o objetivo da realização de um plantio no momento mais oportuno.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "O Capim Buffel possui em média uma produtividade de matéria seca que pode variar de 3 t/ha/ ano a 17 t/ha/ano",
+    "neutralizacaoDeFatoresAnti": "Não hà relatos sobre substãncias antinutricionais",
+    "desempenho": "Não hà relatos ou estudos sobre desempenho de animais alimentados com esta espécie",
+    "curiosidades": "O capim-buffel é um dos recursos forrageiros mais estratégicos para regiões como o Semiárido brasileiro, devido às suas características adaptativas às condições edafoclimáticas. Sabe-se que a limitada oferta de alimentos para atendar à demanda de rebanhos é um dos principais problemas enfrentados pelas cadeias produtivas da caprinovinocultura e da bovinocultura nesta região",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Anjos, J. B.; Paiva, L. E.; Peixoto, J. M. Adaptações em colhedora automotriz para a colheita mecanizada de sementes de capim bufel (Cenchrus ciliaris L.). In: CONGRESSO BRASILEIRO DE ENGENHARIA AGRÍCOLA, 31., 2002, Salvador. Anais... Salvador: SBEA: UFBA, 2002. 1 CD-ROM."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Barbosa, K. V. F.; Lima, J. A.; Silva, J. S.; Salviano, A. M.; Antonio, R. P.; Oliveira, A. R. Adubação nitrogenada e fosfatada em capim-buffel. In: JORNADA DE INICIAÇÃO CIENTIFICA DA EMBRAPA SEMIÁRIDO, 15., 2020, Petrolina. Anais... Petrolina: Embrapa Semiárido, 2020. Disponível em: http://www.alice.cnptia.embrapa.br/alice/handle/doc/1129972. Acesso em: 5 out. 2022"
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Barrera, E. D. L.; Castellanos, A. E. High temperature effects on gas exchange for the invasive buffel grass (Pennisetum ciliare [L.] Link). Weed Biology and Management, v. 7, n. 2, p. 128-131, 2007."
+      },
+      {
+        "_id": 4,
+        "pesquisa": "Brasil. Ministério da Agricultura, Pecuária e Abastecimento. Projeto forrageiras para o Semiárido: estratégias para garantir a segurança alimentar dos rebanhos e fortalecer a pecuária no Nordeste. Brasília, DF, 2020. 18 p. il. (Boletim técnico, 1)."
+      }
+    ]
   }
 ]
