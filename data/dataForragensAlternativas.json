@@ -2414,7 +2414,7 @@
     ]
   },
   {
-    "_id": 52,
+    "_id": 53,
     "nomePopular": "Mororó Lilás",
     "images": [
       {
@@ -2460,7 +2460,7 @@
     ]
   },
   {
-    "_id": 52,
+    "_id": 54,
     "nomePopular": "Capim Belota",
     "images": [
       {
@@ -2479,7 +2479,7 @@
     "composicaoCarboidratosTotais": 73.79,
     "composicaoBromatologica": "Matéria Seca: 19,71;Matéria Orgânica: 93,34; Matéria Mineral: 11,66; Proteína Bruta: 12,37; Extrato Etéreo: 2,18;Fibra de Detergente Neutro: 60,98; Fibra em Detergente Ácido: 36,62; Carboidratos não Fibrosos: 12,81; Carboidratos totais: 73,79.",
     "consideracoesComposicao": "O Capim belota é uma planta que possui uma boa composição bromatológica, podendo ser utilizada na alimentação animal, nas formas de feno ou silagem.",
-    "formasPropragacao": "Sementes ou através de estacas da própria planta",
+    "formasPropragacao": "Sementes",
     "formasPropragacaoDetalhes": "As sementes podem ser lançadas ao solo de forma natural para perpetuação da espécie, mais também estas sementes podem ser coletadas para com o objetivo da realização de um plantio no momento mais oportuno.",
     "destribuicao": "Está presente em todas as regiões.",
     "produtividade": "O Capim Belota participa pouco da alimentação animal na região semiárida nordestina, por esse motivo, possui poucos relatos sobre a sua utilização como volumoso extrategico para ruminantes. As partes mais utilizadas são as folhas, talos e frutos na forma de feno ou silagem.",
@@ -2502,7 +2502,7 @@
     ]
   },
   {
-    "_id": 52,
+    "_id": 55,
     "nomePopular": "Capim Belota Roxa",
     "images": [
       {
@@ -2521,7 +2521,7 @@
     "composicaoCarboidratosTotais": 72.88,
     "composicaoBromatologica": "Matéria Seca: 24,09;Matéria Orgânica: 92,37; Matéria Mineral: 11,50; Proteína Bruta: 12,91; Extrato Etéreo: 2,70;Fibra de Detergente Neutro: 61,44; Fibra em Detergente Ácido: 37,31; Carboidratos não Fibrosos: 11,44; Carboidratos totais: 72,88.",
     "consideracoesComposicao": "O Capim belota é uma planta que possui uma boa composição bromatológica, podendo ser utilizada na alimentação animal, nas formas de feno ou silagem.",
-    "formasPropragacao": "Sementes ou através de estacas da própria planta",
+    "formasPropragacao": "Sementes",
     "formasPropragacaoDetalhes": "As sementes podem ser lançadas ao solo de forma natural para perpetuação da espécie, mais também estas sementes podem ser coletadas para com o objetivo da realização de um plantio no momento mais oportuno.",
     "destribuicao": "Está presente em todas as regiões.",
     "produtividade": "O Capim Belota participa pouco da alimentação animal na região semiárida nordestina, por esse motivo, possui poucos relatos sobre a sua utilização como volumoso extrategico para ruminantes. As partes mais utilizadas são as folhas, talos e frutos na forma de feno ou silagem.",
@@ -2544,7 +2544,7 @@
     ]
   },
   {
-    "_id": 53,
+    "_id": 56,
     "nomePopular": "Capim Buffel",
     "images": [
       {
@@ -2563,7 +2563,7 @@
     "composicaoCarboidratosTotais": 82.88,
     "composicaoBromatologica": "Matéria Seca: 55,13;Matéria Orgânica: 89,00; Matéria Mineral: 11,00; Proteína Bruta: 6,27; Extrato Etéreo: 2,03;Fibra de Detergente Neutro: 71,66; Fibra em Detergente Ácido: 42,71; Carboidratos não Fibrosos: 11,22; Carboidratos totais: 82,88.",
     "consideracoesComposicao": "O Capim Buffel é uma planta que possui uma boa composição bromatológica, podendo ser utilizada na alimentação animal, nas formas de feno ou silagem.",
-    "formasPropragacao": "Sementes ou através de estacas da própria planta",
+    "formasPropragacao": "Sementes",
     "formasPropragacaoDetalhes": "As sementes podem ser lançadas ao solo de forma natural para perpetuação da espécie, mais também estas sementes podem ser coletadas para com o objetivo da realização de um plantio no momento mais oportuno.",
     "destribuicao": "Está presente em todas as regiões.",
     "produtividade": "O Capim Buffel possui em média uma produtividade de matéria seca que pode variar de 3 t/ha/ ano a 17 t/ha/ano",
@@ -2586,6 +2586,404 @@
       {
         "_id": 4,
         "pesquisa": "Brasil. Ministério da Agricultura, Pecuária e Abastecimento. Projeto forrageiras para o Semiárido: estratégias para garantir a segurança alimentar dos rebanhos e fortalecer a pecuária no Nordeste. Brasília, DF, 2020. 18 p. il. (Boletim técnico, 1)."
+      }
+    ]
+  },
+  {
+    "_id": 57,
+    "nomePopular": "Capim Marreca",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707155859/CAPIM-DE-MARRECA/gurwhazwsfbpcplqar7o.jpg"
+      }
+    ],
+    "nomesPopulares": "Capim marreca",
+    "nomeCientifico": "Paspalum conjugatum",
+    "nomeFamilias": "Poaceae",
+    "consumidorPor": "Caprinos, ovinos e bovinos",
+    "partesUtilizadas": "Folhas, vargens e ramos flexiveis",
+    "formasConservacao": "A espécie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "O capim Marreca é uma poácea invasora de locais úmidos e sombreados, infestando beiras de estradas, canais de drenagem, gramados e culturas perenes. É freqüente na planície litorânea e região Amazônica. É hospedeiro alternativo do vírus do mosaico da cana-de-açúcar.",
+    "composicaoProteica": 4.54,
+    "composicaoCarboidratosTotais": 84.88,
+    "composicaoBromatologica": "Matéria Seca: 36,39;Matéria Orgânica: 85,90; Matéria Mineral: 8,41; Proteína Bruta: 4,54; Extrato Etéreo: 2,18;Fibra de Detergente Neutro: 69,78; Fibra em Detergente Ácido: 42,96; Carboidratos não Fibrosos: 15,10; Carboidratos totais: 84,88.",
+    "consideracoesComposicao": "O Capim Marreca é uma planta que possui uma boa composição bromatológica, podendo ser utilizada na alimentação animal, nas formas de feno ou silagem.",
+    "formasPropragacao": "Sementes",
+    "formasPropragacaoDetalhes": "As sementes podem ser lançadas ao solo de forma natural para perpetuação da espécie, mais também estas sementes podem ser coletadas para com o objetivo da realização de um plantio no momento mais oportuno.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "O Capim Marreca mesmo participando da alimentação animal ainda não possui uma produtividade específica.",
+    "neutralizacaoDeFatoresAnti": "Não hà relatos sobre substãncias antinutricionais",
+    "desempenho": "Não hà relatos ou estudos sobre desempenho de animais alimentados com esta espécie",
+    "curiosidades": "O capim Marreca é um dos recursos forrageiros estratégicos para regiões como o Semiárido brasileiro, porém é mais encontrado em ambientes úmidos estando mais proximos as margens de lagos  e açudes ou seja são poucos os locais onde ele pode ser encontrados e no caso de irrigação são poucas as regiões onde isso seja possivel.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Cândido, M. J. D. et al. Pastagens no ecossistema semiárido brasileiro: Atualização e perspectivas futuras. In: Reunião Anual da Sociedade Brasileira De Zootecnia, 42, 2005, Goiânia.Anais...Goiânia: SBZ. 2005, p. 85- 94. Disponível em: <https://www.bdpa.cnptia. embrapa.br/consulta/busca?b=ad&biblioteca=CPATSA&busca=autoria:%22CAVALCANTE,%20M.%20A.%20B.%22>"
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Leite, M. L. M. V. et al. Diagnóstico e caracterização da produção de forragem no Semiárido paraibano – Agreste. In: Reunião Anual da Sociedade Brasileira de Zootecnia, 45. Lavras (BRA), Anais... Lavras (BRA): SBZ, 2008. CDROM.LEITE. E. R. Manejo alimentar de caprinos e ovinos em pastejo no Nordeste do Brasil. Ciência Animal, v. 12, n. 2, p. 119-128, 2002."
+      }
+    ]
+  },
+  {
+    "_id": 58,
+    "nomePopular": "Capim Penasco",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707155883/CAPIM-PANASCO/golbkyf58h3xzxzteofi.jpg"
+      }
+    ],
+    "nomesPopulares": "Capim panasco",
+    "nomeCientifico": "Aristida adscensionis Linn",
+    "nomeFamilias": "Poaceae",
+    "consumidorPor": "Caprinos, ovinos e bovinos",
+    "partesUtilizadas": "Folhas, vargens e ramos flexiveis",
+    "formasConservacao": "A espécie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "O capim Panasco é uma poácea invasora, infestando em varios locais de caatinga e sua presença em terrenos tratados com adubo, é um forte indicio de empobrecimento deste solo.",
+    "composicaoProteica": 3.92,
+    "composicaoCarboidratosTotais": 84.85,
+    "composicaoBromatologica": "Matéria Seca: 48,20;Matéria Orgânica: 89,80; Matéria Mineral: 8,00; Proteína Bruta: 3,92; Extrato Etéreo: 3,24;Fibra de Detergente Neutro: 66,81; Fibra em Detergente Ácido: 37,89; Carboidratos não Fibrosos: 18,04; Carboidratos totais: 84,85.",
+    "consideracoesComposicao": "O Capim Panasco é uma planta que possui uma boa composição bromatológica, podendo ser utilizada na alimentação animal, nas formas de feno ou silagem.",
+    "formasPropragacao": "Sementes",
+    "formasPropragacaoDetalhes": "As sementes podem ser lançadas ao solo de forma natural para perpetuação da espécie, mais também estas sementes podem ser coletadas para com o objetivo da realização de um plantio no momento mais oportuno.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "O Panasco apresenta uma produtividade média anual de 4.034 kg/MS/ha",
+    "neutralizacaoDeFatoresAnti": "Não hà relatos sobre substãncias antinutricionais",
+    "desempenho": "Em estudo realizado em 2019 testando duas variedades de capins Tifton e Panasco a autora deixou evidente a vantagem do Tifton sobre o Panasco mais chamnou a tenção para a potencialidade desta forragem principalmente para períodos de escassez de forragem.",
+    "curiosidades": "O capim Panasco não é muito utilizado na alimentação animal na região do semiárido, isso devida a baixa concentração de nutrientes o que não torna essa espécie atrativa. Entre tanto, o capim panasco pode ser utilizado quando as forragens ja estão escaças na forma de silagem feita em conjunto com outras espécies forrageiras.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Senger, C.C.D. et al. Evaluation of autoclave procedures for fibre analysis in forage and concentrate feedstuffs. Animal Feed Science and Technology, v. 146, p. 169-174, 2008."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Sniffen, C.J. et al. A net carbohydrate and protein system for evaluating cattle diets II. Carbohydrate and protein availability. Journual Animal Scienci., Savoy, v. 70, n. 11, p. 3562-3577, 1992."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Silva, N. L. et al. Técnicas de manejo no controle do capim-panasco verdadeiro (Aristida adscensionis Linn.). In: Embrapa Caprinos e Ovinos- Artigo em anais de congresso (ALICE). In: REUNIÃO ANUAL DA SOCIEDADE BRASILEIRA DE ZOOTECNIA, 37., 2000, Viçosa, MG.Resumos dos trabalhos apresentados. Viçosa, MG: Sociedade Brasileira de Zootecnia, 2000. 3 f. 1 CD-ROM., 2000"
+      },
+      {
+        "_id": 4,
+        "pesquisa": "Silva, D. D. Características morfogênicas e estruturais, produção ecomposição bromatológica de Capim-Panasco. 2017"
+      }
+    ]
+  },
+  {
+    "_id": 59,
+    "nomePopular": "Capim Pé de Galinha",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707155904/CAPIM-PE-DE-GALINHA/xkefkbrc9puwgikfwziz.jpg"
+      }
+    ],
+    "nomesPopulares": "Capim pé de galinha, capim-coroa-d’ouro, capim-de-pomar, capim-d’ouro, pata-de-galinha, capim-da-cidade, capim-de-burro, grama-de-coradouro, grama-sapo, pé-de-papagaio, capim-fubá e flor-de-grama",
+    "nomeCientifico": "Eleusine coracana (L.) Gaerth",
+    "nomeFamilias": "Poaceae",
+    "consumidorPor": "Caprinos, ovinos e bovinos",
+    "partesUtilizadas": "Folhas, vargens e ramos flexiveis",
+    "formasConservacao": "A espécie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "O capim Pé de galinha é uma poácea invasora, infestando em varios locais de caatinga.",
+    "composicaoProteica": 7.23,
+    "composicaoCarboidratosTotais": 80.26,
+    "composicaoBromatologica": "Matéria Seca: 28,90;Matéria Orgânica: 88,60; Matéria Mineral: 10,40; Proteína Bruta: 7,23; Extrato Etéreo: 2,11;Fibra de Detergente Neutro: 69,51; Fibra em Detergente Ácido: 38,80; Carboidratos não Fibrosos: 10,75; Carboidratos totais: 80,26.",
+    "consideracoesComposicao": "O Capim Pé de galinha é uma planta que possui uma boa composição bromatológica, podendo ser utilizada na alimentação animal, nas formas de feno ou silagem.",
+    "formasPropragacao": "Sementes",
+    "formasPropragacaoDetalhes": "As sementes podem ser lançadas ao solo de forma natural para perpetuação da espécie, mais também estas sementes podem ser coletadas para com o objetivo da realização de um plantio no momento mais oportuno.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Por se tratar de uma espécie invasora que compromete até 50% da produtividade de algumas culturas, esta poácea não tem relatos de produtividade.",
+    "neutralizacaoDeFatoresAnti": "Não hà relatos sobre substãncias antinutricionais",
+    "desempenho": "Não hà relatos ou estudos sobre desempenho de animais alimentados com esta espécie",
+    "curiosidades": "O capim Pé de galinha não é muito utilizado na alimentação animal na região do semiárido, isso devida a baixa concentração de nutrientes o que não torna essa espécie atrativa. Entre tanto, o capim panasco pode ser utilizado quando as forragens ja estão escaças na forma de silagem feita em conjunto com outras espécies forrageiras.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Barroso, A. A. M.; Hijano, N.; Alves, P. L. da C. A. Biologia das plantas daninhas resistentes ao glyphosate no Brasil. Revista Cerrado Agrociências, v. 8, p. 75-87, 2017."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Correia, N. M. Resistência de Eleusine indica (capim-pé-de-galinha) a herbicidas inibidores da ACCase no município de Buritis, MG. Brasília, DF: Embrapa Hortaliças, 2016. 20 p. (Embrapa Hortaliças. Boletim Pesquisa e Desenvolvimento, 139)"
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Gazziero, D. L. P.; Lollato, R. P.; Brighenti, A. M.; Pitelli, R. A.; Voll, E. Manual de identificação de plantas daninhas da cultura da soja. 2.ed. Londrina: Embrapa Soja, 2015. 126 p. (Embrapa Soja. Documentos, 274)."
+      },
+      {
+        "_id": 4,
+        "pesquisa": "Lorenzi, H. Plantas daninhas do Brasil: terrestres, aquáticas, parasitas e tóxicas. 4. ed. Nova Odessa: Editora Plantarum, 2008. 672 p."
+      }
+    ]
+  },
+  {
+    "_id": 60,
+    "nomePopular": "Bredo do Porco",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707155638/BREDO-DE-PORCO/y9efwq2wbwifbtjjssrk.jpg"
+      }
+    ],
+    "nomesPopulares": "Caruru, caruru-verde, caruru-bravo, caruru-miúdo, caruru-de-porco, caruru-de-soldado, caruru-verdadeiro, amaranto-verde, bredo, bredo-verdadeiro",
+    "nomeCientifico": "Amaranthus viridis L",
+    "nomeFamilias": "Amaranthaceae",
+    "consumidorPor": "Apreciado por bovinos mais também por caprinos e ovinos",
+    "partesUtilizadas": "Folhas, vargens e ramos flexiveis",
+    "formasConservacao": "A espécie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "O Bredo de porco pode ser ofertado na forma de mistura multipla no cocho juntamente com outras espécies e farelos.",
+    "composicaoProteica": 14.87,
+    "composicaoCarboidratosTotais": 60.73,
+    "composicaoBromatologica": "Matéria Seca: 14,61;Matéria Orgânica: 81,66; Matéria Mineral: 18,34; Proteína Bruta: 17,77; Extrato Etéreo: 3,16;Fibra de Detergente Neutro: 45,86; Fibra em Detergente Ácido: 28,54; Carboidratos não Fibrosos: 14,87; Carboidratos totais: 60,73.",
+    "consideracoesComposicao": "O Bredo de Porco é uma planta que possui uma boa composição bromatológica, apesar de possuir um elevado teor de umidade, podendo ser utilizada na alimentação animal, nas formas de feno ou silagem.",
+    "formasPropragacao": "Sementes",
+    "formasPropragacaoDetalhes": "As sementes podem ser lançadas ao solo de forma natural para perpetuação da espécie, mais também estas sementes podem ser coletadas para com o objetivo da realização de um plantio no momento mais oportuno.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Por se tratar de uma espécie invasora os dados de produtividade são escassos.",
+    "neutralizacaoDeFatoresAnti": "A Composição química das folhas do bredo de porco apresentou carotenóides, violaxantina de β-caroteno de neoxantina e traços de zeaxantina e α-cripto-xantina, além de espinasterol e uma saponina derivada do ácido oleanólico. É  fonte de vitamina A. Em termos quantitativos e qualitativos, o Amaranthus viridis L. constitui-se como uma excelente fonte de proteínas. Possui consideráveis quantidades de dois ácidos graxos essenciais – linoléico e alfa-linoleíco – e minerais, como ferro, magnésio, cálcio e zinco. Esta composição não quer dizer que os animais ruminantes não consumam, muito pelo cotrario os bovinos consomem até mesmo a planta in-natura.",
+    "desempenho": "Não hà relatos ou estudos sobre desempenho de animais alimentados com esta espécie",
+    "curiosidades": "Composição química:  As folhas possuem carotenóides, entre eles 54-61% de luteína mais violaxantina, 24-34% de β-caroteno, 10–14% de neoxantina e traços de zeaxantina e α-cripto-xantina, além de espinasterol e uma saponina derivada do ácido oleanólico . É também uma fonte rica em vitamina A. Em termos quantitativos e qualitativos, o Amaranthus viridis L. constitui-se como uma excelente fonte de proteínas. Possui consideráveis quantidades de dois ácidos graxos essenciais – linoléico e alfa-linoleíco – e minerais, como ferro, magnésio, cálcio e zinco.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Dresher, L. (coord.). Herbanário da Terra: Plantas e Receitas. [S. I.: s. i.], 2001. p. 48."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Lorenzi, H.; Matos, F. J. A. Plantas Medicinais no Brasil: nativas e exóticas. 2. ed. Nova Odessa, SP: Instituto Plantarum, 2008. p. 43."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Mercadante, A. Z., Rodriguez-Amaya, D. B. Carotenoid composition and vitamin A value of some native Brazilian green leafy vegetables. International Journal of Food Science & Technology, [S. I.], v. 25, n. 2, p. 213–219, Abril 1990."
+      },
+      {
+        "_id": 4,
+        "pesquisa": "Sena, L. P. et al. Analysis of nutritional components of eight famine foods of the Republic of Niger. Plant Foods for Human Nutrition (Formerly Qualitas Plantarum), [S. I], v. 52, n. 1, p. 17-30, 1998."
+      }
+    ]
+  },
+  {
+    "_id": 61,
+    "nomePopular": "Mentrasto",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707157525/MENTRASTO/s1pjnjmeovy9zlifugoh.jpg"
+      }
+    ],
+    "nomesPopulares": "Mentraste, erva-de-são-joão, erva-de-são-josé, cacália-mentrasto, catinga-de-barão, catinga-de-bode, picão-branco, picão-roxo; marrubio-blanco, mastranto, retentina",
+    "nomeCientifico": "Ageratum conyzoides  L.",
+    "nomeFamilias": "Asteraceae",
+    "consumidorPor": "O mentrasto pode ser consumido por ruminates na forma de feno ou silagem",
+    "partesUtilizadas": "Folhas, flores e ramos flexiveis",
+    "formasConservacao": "A espécie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "O Mentrasto pode ser ofertado na forma de mistura multipla no cocho juntamente com outras espécies e farelos.",
+    "composicaoProteica": 16.04,
+    "composicaoCarboidratosTotais": 66.47,
+    "composicaoBromatologica": "Matéria Seca: 23,05;Matéria Orgânica: 89,08; Matéria Mineral: 10,92; Proteína Bruta: 16,04; Extrato Etéreo: 6,56;Fibra de Detergente Neutro: 51,31; Fibra em Detergente Ácido: 40,54; Carboidratos não Fibrosos: 15,17; Carboidratos totais: 66,47.",
+    "consideracoesComposicao": "O Mentrasto é uma planta que possui uma boa composição bromatológica, podendo ser utilizada na alimentação animal, nas formas de feno ou silagem. contudo o foco de seu uso é para a farmacologia popular.",
+    "formasPropragacao": "Sementes",
+    "formasPropragacaoDetalhes": "As sementes podem ser lançadas ao solo de forma natural para perpetuação da espécie, mais também estas sementes podem ser coletadas para com o objetivo da realização de um plantio no momento mais oportuno.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Por se tratar de uma espécie invasora os dados de produtividade são escassos.",
+    "neutralizacaoDeFatoresAnti": "Composição química: A composição principal do Ageratum conyzoides é baseada em óleos essenciais com terpenos (salineno, pineno, eugenol, cineol, felandreno, limoneno, linalol, terpineol e cariofileno); compostos cumarínicos e benzofuranos; resinas; alcalóides pirrolizidínicos (licopsamina e equinatina); flavonas, flavonóides e cromonas (Laus, 1994). Possui também ácido cianídrico",
+    "desempenho": "Não hà relatos ou estudos sobre desempenho de animais alimentados com esta espécie",
+    "curiosidades": "Origem ou Habitat: América tropical. No Brasil predomina nas regiões Amazônia, Caatinga, Cerrado, Mata Atlântica, Pampa, Pantanal",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Alonso, J. Tratado de Fitofármacos y Nutracéuticos. Rosario, Argentina: Corpus Libros, 2004."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Bosi, C.F. Presença de alcalóides pirrolizidínicos em Ageratum conyzoides L., ASTERACEAE (dissertação)/ Cristiane Fracari Bosi; orientadora, Maique Weber Biavatti – Florianópolis/SC, 2012."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Laus CB 1994. Manual de fitoterapia: plante saúde. Curitiba: Prefeitura Municipal de Curitiba, apud Rev. bras. farmacogn. vol.19 no.3 João Pessoa July/Sept. 2009"
+      },
+      {
+        "_id": 4,
+        "pesquisa": "http://dx.doi.org/10.1590/S0102-695X2009000500002 – Atividade antitumoral do Ageratum conyzoides L. (Asteraceae) Luciano da Silva Momesso; Rute Mendonça Xavier de Moura; Dulce Helena Jardim Constantino."
+      },
+      {
+        "_id": 5,
+        "pesquisa": "Lorenzi, H.; Matos, F.J. A. Plantas medicinais no Brasil: nativas e exóticas. 2ªed. Nova Odessa, SP: Instituto Plantarum, 2008."
+      }
+    ]
+  },
+  {
+    "_id": 62,
+    "nomePopular": "Flor de Seda",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707156953/FLOR-DE-SEDA/rw2svutmqrkedh09yvyv.jpg"
+      }
+    ],
+    "nomesPopulares": "Flor de seda, Algodão de Seda, Algodão da Praia, Leiteira, Paininha-de-Seda, Saco-de-Velho, Leiteiro, Queimadeira, Pé-de-Balão, Janaúba e Ciúme.",
+    "nomeCientifico": "Calotropis procera S.W.",
+    "nomeFamilias": "Asclepiadaceae",
+    "consumidorPor": "Animais ruminanntes",
+    "partesUtilizadas": "Folhas, flores e ramos flexiveis",
+    "formasConservacao": "A espécie pode ser armazenada na forma de feno ou silagem",
+    "formasOfertaPreparo": "A planta Flor de seda pode ser ofertado na forma de mistura multipla no cocho juntamente com outras espécies e farelos como feno ou silagem",
+    "composicaoProteica": 14.84,
+    "composicaoCarboidratosTotais": 62.45,
+    "composicaoBromatologica": "Matéria Seca: 14,29;Matéria Orgânica: 84,25; Matéria Mineral: 15,93; Proteína Bruta: 14,84; Extrato Etéreo: 6,78;Fibra de Detergente Neutro: 33,67; Fibra em Detergente Ácido: 21,23; Carboidratos não Fibrosos: 28,78; Carboidratos totais: 62,45.",
+    "consideracoesComposicao": "A Flor de seda é uma planta que possui uma boa composição bromatológica, podendo ser utilizada na alimentação animal, nas formas de feno ou silagem. contudo o foco de seu uso é para a farmacologia popular e como planta ornamental",
+    "formasPropragacao": "Sementes",
+    "formasPropragacaoDetalhes": "A Flor de seda possui fácil propagação através das sementes devido à excelente germinação, sem haver anecessidade de pré-tratamentos, pois não apresenta dormência podendo ser plantadas diretamente no solo",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "A Flor de seda apresenta uma produtividade média anual de até  3,0 t  de  MS/corte/ha",
+    "neutralizacaoDeFatoresAnti": "Na composição química da  Flor de seda, pode-se  encontrar compostos fenólicos, saponinas, esteróis, triterpenóides, ésteres norditerpênicos, flavóides,benzoilisolineolona, benzoilienolona, procesterol, hidróxi-cetona  esteriodal,  estigmasterol, β-sitosterol,  proceraína, protease, cisteína estável, histamina, frugisida, coroglaucigenina, corotoxigenina, uzarigenona e deglucouzarina. Em estudo realizado em 1987, foi observado que o consumo das folhas in  natura  por  caprinos,  ovinos  e camelos  foi  baixo  quando  fornecida  de  forma  exclusiva. Mas,   houve   aumento   no   consumo   quando   picadas   e adicionadas a outros alimentos, sem a ocorrência de danos aos animais.",
+    "desempenho": "Em estudo realizado em 2009,   constatou-se que a utilização   da Flor de seda na   produção   animal   é promissora,  no  entanto  ainda  depende  de  estudos  na área de   sistema   de   produção   para   obter   o   máximo   de produtividade  que  esta  espécie  possa  disponibilizar;  além de    uma    análise    do    seu    aspecto    bioquímico    para identificação   das   substâncias   ativas,   bem   como   seusmecanismos e locais de atuação no animal. Faz-se    necessário    à    realização    de    mais    ensaios, principalmente in  vivo,  para  encontrar  os  níveis  seguros  a serem   utilizados   por   diferentes   espécies   através   dediferentes formas de oferta: in natura, feno ou silagem.",
+    "curiosidades": "A Flor de seda possui grande afinidade a regiões desérticas e áridas (Khan & Malik, 1989), solos arenosos, ocorre em pastagens  degradadas,  no  litoral  a  beira  do  mar,  dunas, rodovias,  terrenos  baldios  e  margens  de  estradas.  Tolera solos  pobres,  solos  ácidos,  salinos  e  com  elevado  teor  de alumínio. Isso só mostra a resistência e rusticidade da espécie forrageira.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Costa, R. G.; Medeiros, A. N.; Alves, A. R.; Medeiros, G. R. Perspectivas de utilização da flor-de-seda (Calotropis procera) na produção animal. Revista Caatinga (Mossoró), v.22, n.1, p. 276-285, janeiro/março de 2009."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Adetunji,  V.O.  &  Salawu,  O.T.  West  African  soft cheese  ‘wara’  processed   with Calotropis  procera and Carica  papaya:  A  comparative  assessment  of  nutritional values. African Journal of Biotechnology,  v. 7, n. 18, p. 3360-3362, 2008."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Amritphale,  D.;  Sharma,  S.  Learning  foodchain with Calotropis procera. Resonance, n. 12, 67–75, 2007."
+      }
+    ]
+  },
+  {
+    "_id": 63,
+    "nomePopular": "Centrosema",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707156009/CENTROSEMA/oas4h8yapr0theiqxe49.jpg"
+      }
+    ],
+    "nomesPopulares": "Centrosema, clitória, jetirana, babuia, brinco-de-princesa, cunhã, espia-caminho, fava-branca, jequiritirana, jequitirana, panapaná-roxa, patinha",
+    "nomeCientifico": "Centrosema brasilianum",
+    "nomeFamilias": "Fabaceae",
+    "consumidorPor": "Caprinos, ovinos, bovinos e equídeos",
+    "partesUtilizadas": "Folhas, flores e frutos",
+    "formasConservacao": "A Centrosema pode ser conservada nas forma de feno ou silagem de forma separada ou junta a outras espécies.",
+    "formasOfertaPreparo": "O feno ou silagem da Centrosema pode ser ofertado separadamente ou junto a outras espécies de volumosos ou ainda com farelos tradicionalmente utilizados na alimentaçao animal.",
+    "composicaoProteica": 16.08,
+    "composicaoCarboidratosTotais": 67.19,
+    "composicaoBromatologica": "Matéria Seca: 23,84;Matéria Orgânica: 88,39; Matéria Mineral: 10,61; Proteína Bruta: 16,08; Extrato Etéreo: 6,12;Fibra de Detergente Neutro: 49,21; Fibra em Detergente Ácido: 42,41; Carboidratos não Fibrosos: 17,98; Carboidratos totais: 67,19.",
+    "consideracoesComposicao": "A centrosema é uma espécie com bom potencial forrageiro, além de ser um excelente indicador de solo fertil, podendo ser utilizada na alimentação animal.",
+    "formasPropragacao": "Sementes",
+    "formasPropragacaoDetalhes": "A centrosema pode ser propagada por meio do uso de sementes que ao fim do período de frutificação, lançam as semente ao solo, onde permanecem até que lhes sejam dadas as condições de germinar.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "Nao foram encontrados relatos sobre a produtividade da centrosema brasilianum na literatura consultada.",
+    "neutralizacaoDeFatoresAnti": "A Centrosema pode ser utilizada na alimentação animal sem nenhum empecílio",
+    "desempenho": "Não há dados na literatura consultada sobre desempenho animal alimentados com centrosema",
+    "curiosidades": "As partes aéreas (folhas, pecíolos, inflorescências e ramos jovens) são utilizadas para alimentação animal. A planta inteira como ornamental, uma vez que espécies do gênero Centrosema são também usadas no paisagismo",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Flora do Brasil. Centrosema in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro. Disponível em: Acesso em: 18 Set. 2016."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Tropical Forages. Centrosema brasilianum. Disponível em http://www.tropicalforages. info/key/Forages/Media/Html/Centrosema_brasilianum.htm. Acesso em set. 2016."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Tropicos. Centrosema brasilianum (L.) Benth. Disponível em http://www.tropicos.org/ Name/13028529?tab=synonyms. Acesso em set. 2016."
+      },
+      {
+        "_id": 4,
+        "pesquisa": "Valadares Filho, S.C., Machado, P.A.S., Chizzotti, M.L. CQBAL 3.0. Tabelas Brasileiras de Composição de Alimentos para Bovinos. Disponível em www.ufv.br/cqbal. Acesso em18/11/2016."
+      }
+    ]
+  },
+  {
+    "_id": 64,
+    "nomePopular": "Jureminha",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707157289/JUREMINHA/shd2qfbnewto1a7najom.jpg"
+      }
+    ],
+    "nomesPopulares": "Jureminha, jurema pequena, jurema forrageira",
+    "nomeCientifico": "Desmanthus virgatus L.",
+    "nomeFamilias": "Fabaceae",
+    "consumidorPor": "Caprinos, ovinos, bovinos e aves",
+    "partesUtilizadas": "Folhas, flores, frutos e talos flexíveis",
+    "formasConservacao": "As folhas e frutos triturados podem ser utilizados para confecçao de feno e silagem de boa qualidade para os animais ruminantes e monogástricos",
+    "formasOfertaPreparo": "O feno ou silagem da Centrosema pode ser ofertado separadamente ou junto a outras espécies de volumosos ou ainda com farelos tradicionalmente utilizados na alimentaçao animal.",
+    "composicaoProteica": 18.50,
+    "composicaoCarboidratosTotais": 72.15,
+    "composicaoBromatologica": "Matéria Seca: 27,63;Matéria Orgânica: 92,52; Matéria Mineral: 6,48; Proteína Bruta: 18,50; Extrato Etéreo: 2,87;Fibra de Detergente Neutro: 52,48; Fibra em Detergente Ácido: 31,28; Carboidratos não Fibrosos: 19,66; Carboidratos totais: 72,15.",
+    "consideracoesComposicao": "A Jureminha é uma espécie que apresenta bom potêncial forrageiro, boa aceitabilidade pelos animasi e excelente composição bromatiológica, podendo ser utilizada na alimentação animal.",
+    "formasPropragacao": "Sementes ou estacas",
+    "formasPropragacaoDetalhes": "A Jureminha pode ser propagada por meio do uso de sementes que ao fim do período de frutificação, lançam as semente ao solo, existe um certo problema com com relação a propagação por estacas pos as mesmas são finas e não guandam reservas para resistir após o plantio um período de estiagem.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "A produção média da Jureminha (D. virgarus), em terreno adubado é de aproximadamente 26 t./ha/anode MS, podendo chegar a uma produção de até 30 t/ha/ano de MS.",
+    "neutralizacaoDeFatoresAnti": "Não hà relatos sobre substãncias antinutricionais",
+    "desempenho": "Em estudo realizado em 2021, o autor avaliando o valor nutritivo da Jureminha Constatou que a planta permanece com seu valor nutritivo mesmo enfrentando as mudanças de clima, nas estações seca e chuvosa. O que implica dizer que tem um bom potêncial forrageiro, podendo ser utilizado como volumoso rico em proteina na alimentação animal.",
+    "curiosidades": "A Jureminha é uma possui uma boa aceitação pelo animal, principalmente caprinos, que são animais muito seletivos.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Suzanne P. Boschma, Carol A. Harris, Mark A. Brennan, and Steven Harden 'Medicago sativa and Desmanthus virgatus: suitable perennial legumes in mixes with Digitaria eriantha in Australia during drought', Crop and Pasture Science 72(9), 692-706, (16 February 2021). https://doi.org/10.1071/CP20291"
+      },
+      {
+        "_id": 2,
+        "pesquisa": "COSTA, Maria Nágila Ferreira da. Caracterização morfogênica e estrutural de Desmanthus pernambucanus (L.) thellung sob diferentes densidades de plantio e altura de colheita. 2020. 51 f. Dissertação (Programa de Pós-Graduação em Zootecnia) - Universidade Federal Rural de Pernambuco, Recife."
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Diniz, W. P. S.; Santos, M. V. F.; Verás, A. S. C.; Cunha, M. V.; Simões Neto, D. E.;  et al,. Morphological, productive, and nutritional characterization of Desmanthus spp. accessions under different cutting intensities. Agroforest Syst (2021) 95:571–581 https://doi.org/10.1007/ s10457-021-00609-7."
+      }
+    ]
+  },
+  {
+    "_id": 65,
+    "nomePopular": "Mata Pasto",
+    "images": [
+      {
+        "_id": 1,
+        "url": "https://res.cloudinary.com/dymumcdky/image/upload/v1707157414/MATA-PASTO/rgprggwt4frajhmre15z.jpg"
+      }
+    ],
+    "nomesPopulares": "Pata pasto Liso, mata pasto peludo",
+    "nomeCientifico": "Senna obtusifolia (l.) H. S. Irvin & Barneby",
+    "nomeFamilias": "Fabaceae (alt. Leguminosae)",
+    "consumidorPor": "Caprinos, ovinos, bovinos",
+    "partesUtilizadas": "Folhas, flores, frutos e talos flexíveis",
+    "formasConservacao": "As folhas e frutos triturados podem ser utilizados para confecçao de feno e silagem de boa qualidade para os animais ruminantes e monogástricos",
+    "formasOfertaPreparo": "O feno ou silagem da Centrosema pode ser ofertado separadamente ou junto a outras espécies de volumosos ou ainda com farelos tradicionalmente utilizados na alimentaçao animal.",
+    "composicaoProteica": 14.68,
+    "composicaoCarboidratosTotais": 69.86,
+    "composicaoBromatologica": "Matéria Seca: 29,38;Matéria Orgânica: 89,27; Matéria Mineral: 8,73; Proteína Bruta: 14,68; Extrato Etéreo: 6,73;Fibra de Detergente Neutro: 41,85; Fibra em Detergente Ácido: 23,80; Carboidratos não Fibrosos: 28,01; Carboidratos totais: 69,86.",
+    "consideracoesComposicao": "O Mata Pasto é uma espécie que apresenta bom potêncial forrageiro, boa aceitabilidade pelos animasi e excelente composição bromatiológica, podendo ser utilizada na alimentação animal.",
+    "formasPropragacao": "Sementes",
+    "formasPropragacaoDetalhes": "O Mata pasto pode ser propagada por meio do uso de sementes que ao fim do período de frutificação, lançam as semente ao solo onde peremanecem até que seja possivel a germinação.",
+    "destribuicao": "Está presente em todas as regiões.",
+    "produtividade": "A produção média do Mata Pasto, é de aproximadamente 11 t./ha/ano de MS, podendo chegar a uma produção máxima de até 16 t/ha/ano de MS.",
+    "neutralizacaoDeFatoresAnti": "Na composição fitiquimica do Mata pasto foram encontradas alguns compostos tais como: taninos flobafênicos, flavonas, flavonóis, xantonas, catequinas, flavononas e saponinas, porém estes compostos, são perdidos ou reduzidos durante os processos de fenação e ensilagem, podendo o mata poasto ser utilizado como forragem.",
+    "desempenho": "Em trabalho realizado em 2011, o autor concluiu que o feno de mata-pasto podem ser incluído na dieta de ovinos, principalmente na época de escassez de alimentos, na região semiárida.Os animais alimentados com o feno de mata pasto apresentaram neste estudo um ganho médio diário de 66,g/dia.",
+    "curiosidades": "O Mata pasto é uma possui uma boa aceitação pelo animal, porém sua utilização só é possivel nas forma de feno ou silagem, de preferencia a silagem com outras espécies, pois a espécie in natura possui um cheiro desagradavel o que afasta os animais.",
+    "bibliografia": [
+      {
+        "_id": 1,
+        "pesquisa": "Linhares, P. C. F.; Pereira, M. F. S.; Almeida S. M. S.; et al, Efeito residual do mata-pasto (Senna uniflora) no desempenho produtivo do rabanete. Revista Verde (Mossoró – RN – Brasil) v.6, n.1, p. 168 - 173 janeiro/março de 2011."
+      },
+      {
+        "_id": 2,
+        "pesquisa": "Favero, C; Jucksch, I; Costa, L. M; Alvarenga, R. C.; Neves, J. C. L. Crescimento e acúmulo de nutrientes por plantas espontâneas e por leguminosas utilizadas para adubação verde. Revista Brasileira de Ciência do Solo, Viçosa, v.24, n. 1, p.171-177, 2000"
+      },
+      {
+        "_id": 3,
+        "pesquisa": "Farias, A. F. F; Dantas, J. P.; Alves, A. A.; Silva, J. D. S.; Pereira, N. T.; Mendes, N. R.  Avaliacão Nutricional do mata-pasto Universidade Estadual da Paraíba; Universidade Federal do Piauí, autores:, acessado em 17 de agosto de 2015"
       }
     ]
   }
